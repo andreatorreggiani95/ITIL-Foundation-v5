@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 81,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE la differenza tra un output e un outcome (risultato)?",
+    "options": [
+      "A. Un output è un esito tangibile o intangibile di un'attività, mentre un outcome è un risultato per una parte interessata reso possibile da uno o più output",
+      "B. Un output è sempre misurabile, mentre un outcome è sempre immisurabile",
+      "C. Un output è prodotto dal consumatore del servizio, mentre un outcome è prodotto dal fornitore",
+      "D. Non esiste differenza: i due termini sono sinonimi in ITIL"
+    ],
+    "correct_answer": "A",
+    "explanation": "Un output è un esito, tangibile o intangibile, di un'attività. Un outcome (risultato) è un risultato per una parte interessata reso possibile da uno o più output."
+  },
+  {
+    "id": 82,
+    "question": "Quale delle seguenti è la definizione CORRETTA di 'valore del servizio'?",
+    "options": [
+      "A. La quantità di denaro speso per una specifica attività o risorsa",
+      "B. La percezione dei benefici, dell'utilità e dell'importanza di un servizio",
+      "C. Il numero di servizi offerti da un fornitore",
+      "D. La quantità di risorse allocate per l'erogazione di un servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il valore del servizio è la percezione dei benefici, dell'utilità e dell'importanza di un servizio."
+  },
+  {
+    "id": 83,
+    "question": "In ITIL, quale affermazione sul rischio è CORRETTA?",
+    "options": [
+      "A. I servizi eliminano completamente tutti i rischi per il consumatore",
+      "B. I servizi possono sia ridurre rischi esistenti sia introdurre nuovi rischi per il consumatore",
+      "C. Il rischio riguarda esclusivamente il fornitore del servizio",
+      "D. Il rischio è sempre un costo finanziario diretto"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ci sono due tipi di rischi per i consumatori: quelli ridotti o eliminati dal servizio (proposta di valore) e quelli imposti dal servizio (rischi di consumo del servizio)."
+  },
+  {
+    "id": 84,
+    "question": "Quale affermazione descrive correttamente un'offerta di servizio?",
+    "options": [
+      "A. Un accordo documentato tra fornitore e cliente che specifica i livelli di servizio",
+      "B. Una descrizione formale di uno o più servizi, progettati per soddisfare le esigenze di un gruppo di consumatori specifico",
+      "C. Un documento che delinea i requisiti tecnici di un prodotto digitale",
+      "D. Una metrica utilizzata per valutare la qualità del servizio erogato"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un'offerta di servizio è una descrizione formale di uno o più servizi, progettati per soddisfare le esigenze di un gruppo di consumatori specifico. Può includere beni, accesso alle risorse e azioni del servizio."
+  },
+  {
+    "id": 85,
+    "question": "Un'azienda fornisce ai propri dipendenti l'accesso a una piattaforma cloud per la collaborazione. Il fornitore mantiene la proprietà dell'infrastruttura. Quale forma di interazione di servizio rappresenta?",
+    "options": [
+      "A. Trasferimento di beni",
+      "B. Azione del servizio",
+      "C. Accesso alle risorse",
+      "D. Co-creazione del valore"
+    ],
+    "correct_answer": "C",
+    "explanation": "L'accesso alle risorse avviene quando il consumatore del servizio ottiene l'accesso alle risorse del fornitore del servizio e le utilizza in base ai termini e alle condizioni concordati. Le risorse rimangono di proprietà del fornitore."
+  },
+  {
+    "id": 86,
+    "question": "Quale delle seguenti è una caratteristica della 'garanzia' di un servizio?",
+    "options": [
+      "A. Descrive 'quello che il servizio fa' ed è idonea allo scopo",
+      "B. Riguarda tipicamente la disponibilità, la capacità, i livelli di sicurezza e la continuità del servizio",
+      "C. Si concentra esclusivamente sulla funzionalità offerta dal servizio",
+      "D. È sinonimo di sostenibilità del servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "La garanzia è l'assicurazione che un prodotto o servizio soddisferà i requisiti concordati. Riguarda tipicamente aree come la disponibilità del servizio, la sua capacità, i livelli di sicurezza e la sua continuità."
+  },
+  {
+    "id": 87,
+    "question": "Quale termine ITIL può essere sintetizzato con 'quello che il servizio fa'?",
+    "options": [
+      "A. Garanzia",
+      "B. Sostenibilità",
+      "C. Utilità",
+      "D. User Experience (UX)"
+    ],
+    "correct_answer": "C",
+    "explanation": "L'utilità è la funzionalità offerta da un prodotto o servizio per soddisfare una particolare esigenza. Il termine utilità può essere sintetizzato con 'quello che il servizio fa' e può essere usato per determinare se un servizio sia 'adatto allo scopo'."
+  },
+  {
+    "id": 88,
+    "question": "Quale delle seguenti affermazioni sulla co-creazione del valore è CORRETTA?",
+    "options": [
+      "A. Il valore è determinato unicamente dal fornitore del servizio",
+      "B. Il valore è sempre oggettivo e non cambia nel tempo",
+      "C. Il valore è soggettivo e influenzato dall'esperienza del servizio",
+      "D. Il valore è misurato esclusivamente in termini finanziari"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il valore per il consumatore del servizio è soggettivo e influenzato dall'esperienza del servizio; cambia nel tempo e in base alle circostanze."
+  },
+  {
+    "id": 89,
+    "question": "In quale tipo di relazione di servizio il focus tipico è 'innovazione e crescita'?",
+    "options": [
+      "A. Relazione di base",
+      "B. Relazione di cooperazione",
+      "C. Relazione collaborativa",
+      "D. Relazione standardizzata"
+    ],
+    "correct_answer": "C",
+    "explanation": "La relazione collaborativa ha come focus tipico 'innovazione e crescita', coinvolge livelli operativo, tattico e strategico, e utilizza servizi personalizzati o su misura."
+  },
+  {
+    "id": 90,
+    "question": "Quale ruolo all'interno del consumatore del servizio è definito come 'il ruolo che utilizza i servizi'?",
+    "options": [
+      "A. Cliente",
+      "B. Sponsor",
+      "C. Utente",
+      "D. Fornitore del servizio"
+    ],
+    "correct_answer": "C",
+    "explanation": "L'utente è il ruolo che utilizza i servizi. Il cliente definisce i requisiti per i prodotti e i servizi, e lo sponsor autorizza il budget."
+  },
+  {
+    "id": 91,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE il concetto di 'livello di servizio'?",
+    "options": [
+      "A. Il costo totale di erogazione di un servizio",
+      "B. Un insieme di metriche che definiscono la qualità del servizio prevista o conseguita",
+      "C. Il numero di utenti che utilizzano un servizio",
+      "D. La velocità con cui un incidente viene risolto"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il livello di servizio è un insieme di metriche che definiscono la qualità del servizio prevista o conseguita."
+  },
+  {
+    "id": 92,
+    "question": "Quale delle seguenti NON è una delle quattro categorie di metriche del livello di servizio?",
+    "options": [
+      "A. Utilità",
+      "B. Garanzia",
+      "C. Profittabilità",
+      "D. Sostenibilità"
+    ],
+    "correct_answer": "C",
+    "explanation": "Le quattro categorie di metriche del livello di servizio sono: Utilità, Garanzia, Sostenibilità e User Experience (UX). La profittabilità non è una di queste."
+  },
+  {
+    "id": 93,
+    "question": "Un'organizzazione può essere contemporaneamente fornitore del servizio e consumatore del servizio?",
+    "options": [
+      "A. No, un'organizzazione può avere solo un ruolo alla volta",
+      "B. Sì, le organizzazioni formano catene e reti dove ciascuna agisce come consumatore per più fornitori e come fornitore per più consumatori",
+      "C. Solo se l'organizzazione è una multinazionale",
+      "D. Solo nel caso di servizi digitali"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le organizzazioni instaurano relazioni di servizio formando catene e reti dove ogni organizzazione agisce come consumatore del servizio per più fornitori, e come fornitore del servizio per più consumatori."
+  },
+  {
+    "id": 94,
+    "question": "Il focus tipico di una relazione di cooperazione è:",
+    "options": [
+      "A. Supporto ed efficienza",
+      "B. Miglioramento ed efficacia",
+      "C. Innovazione e crescita",
+      "D. Automazione e scalabilità"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il focus tipico della relazione di cooperazione è 'miglioramento ed efficacia'. La relazione di base si concentra su 'supporto ed efficienza', mentre quella collaborativa su 'innovazione e crescita'."
+  },
+  {
+    "id": 95,
+    "question": "Quale affermazione sulla User Experience (UX) in ITIL è CORRETTA?",
+    "options": [
+      "A. La UX riguarda esclusivamente l'interfaccia grafica del prodotto",
+      "B. La UX è la somma delle interazioni funzionali ed emotive con un servizio e un fornitore del servizio così come percepite dall'utente",
+      "C. La UX è misurata esclusivamente tramite sondaggi di soddisfazione",
+      "D. La UX non è rilevante per i servizi digitali"
+    ],
+    "correct_answer": "B",
+    "explanation": "La User Experience (UX) è la somma delle interazioni funzionali ed emotive con un servizio e un fornitore del servizio così come percepite dall'utente del servizio."
+  },
+  {
+    "id": 96,
+    "question": "Quale dei seguenti è un esempio di costo 'imposto' da un servizio al consumatore?",
+    "options": [
+      "A. Il costo dell'infrastruttura IT che il consumatore non deve più gestire",
+      "B. Il canone di abbonamento mensile pagato dal consumatore al fornitore",
+      "C. Il costo risparmiato dal consumatore grazie all'efficienza del servizio",
+      "D. Il costo di formazione del personale del fornitore del servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Dal punto di vista del consumatore, ci sono costi ridotti o eliminati dal servizio e costi imposti da un servizio (i costi di consumo del servizio), come ad esempio il canone di abbonamento."
+  },
+  {
+    "id": 97,
+    "question": "Quale delle seguenti affermazioni sul percorso del servizio è CORRETTA?",
+    "options": [
+      "A. I passaggi del percorso del servizio sono sempre sequenziali e non possono verificarsi simultaneamente",
+      "B. Il percorso del servizio descrive esclusivamente le attività del fornitore del servizio",
+      "C. I passaggi del percorso del servizio non sono sempre sequenziali e possono verificarsi in ordine diverso o simultaneamente",
+      "D. Il percorso del servizio è identico alla catena del valore"
+    ],
+    "correct_answer": "C",
+    "explanation": "I passaggi del percorso del servizio non sono sempre sequenziali e possono verificarsi in ordine diverso o anche simultaneamente."
+  },
+  {
+    "id": 98,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE un prodotto in ITIL?",
+    "options": [
+      "A. Un mezzo per abilitare la co-creazione del valore facilitando il raggiungimento dei risultati desiderati",
+      "B. Una configurazione delle risorse di un'organizzazione progettata per offrire valore a un cliente",
+      "C. Un accordo documentato tra fornitore e cliente",
+      "D. Una serie di passaggi per creare ed erogare servizi"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un prodotto è una configurazione delle risorse di un'organizzazione progettata per offrire valore a un cliente."
+  },
+  {
+    "id": 99,
+    "question": "Quale attività del ciclo di vita ha come output principale una 'roadmap di prodotto aggiornata'?",
+    "options": [
+      "A. Progettare",
+      "B. Scoprire",
+      "C. Costruire",
+      "D. Erogare"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'output principale dell'attività 'Scoprire' è la roadmap di prodotto aggiornata."
+  },
+  {
+    "id": 100,
+    "question": "Quale attività del ciclo di vita produce come output 'specifiche e prototipi di prodotti e servizi'?",
+    "options": [
+      "A. Scoprire",
+      "B. Costruire",
+      "C. Progettare",
+      "D. Acquisire"
+    ],
+    "correct_answer": "C",
+    "explanation": "L'output dell'attività 'Progettare' sono specifiche e prototipi di prodotti e servizi."
+  },
+  {
+    "id": 101,
+    "question": "L'attività 'Costruire' nel ciclo di vita ITIL si concentra su:",
+    "options": [
+      "A. Mantenere e monitorare i prodotti digitali",
+      "B. Sviluppare, integrare e testare prodotti digitali, trasformando i progetti in soluzioni funzionali",
+      "C. Fornire servizi agli utenti e gestire l'onboarding",
+      "D. Garantire il continuo allineamento delle roadmap di prodotto"
+    ],
+    "correct_answer": "B",
+    "explanation": "Lo scopo dell'attività 'Costruire' è sviluppare, integrare e testare prodotti digitali, trasformando i progetti in soluzioni funzionali."
+  },
+  {
+    "id": 102,
+    "question": "Quale delle seguenti è una metrica chiave di successo dell'attività 'Far funzionare'?",
+    "options": [
+      "A. Qualità delle specifiche e dei prototipi del prodotto",
+      "B. Numero e impatto degli incidenti e delle deviazioni di prestazione",
+      "C. Soddisfazione di clienti e utenti per l'erogazione del servizio",
+      "D. Adeguatezza strategica dell'offerta di prodotti e servizi"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le metriche chiave di successo dell'attività 'Far funzionare' includono: copertura ed efficacia del monitoraggio, affidabilità e prestazioni dei prodotti live, numero e impatto degli incidenti e delle deviazioni di prestazione."
+  },
+  {
+    "id": 103,
+    "question": "Che cos'è un 'errore noto' in ITIL?",
+    "options": [
+      "A. Un incidente che è stato risolto",
+      "B. Un problema che è stato analizzato ma non è stato risolto",
+      "C. Un difetto introdotto durante la fase di costruzione",
+      "D. Un cambiamento che ha causato un'interruzione del servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un errore noto è un problema che è stato analizzato ma non è stato risolto."
+  },
+  {
+    "id": 104,
+    "question": "Quale definizione descrive correttamente un 'evento' in ITIL?",
+    "options": [
+      "A. Un'interruzione non pianificata di un servizio",
+      "B. Qualsiasi cambiamento di stato che sia significativo per la gestione di un servizio o di un altro elemento della configurazione",
+      "C. La causa di uno o più incidenti",
+      "D. Una richiesta presentata da un utente per un'azione concordata"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un evento è qualsiasi cambiamento di stato che sia significativo per la gestione di un servizio o di un altro elemento della configurazione."
+  },
+  {
+    "id": 105,
+    "question": "Che cos'è un 'rilascio' (release) in ITIL?",
+    "options": [
+      "A. L'aggiunta, modifica o rimozione di qualsiasi elemento che possa avere un effetto su prodotti e servizi",
+      "B. Una versione di un prodotto, servizio o altro elemento della configurazione resa disponibile per l'uso",
+      "C. Un processo di test automatizzato",
+      "D. Un accordo sul livello di servizio concordato"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un rilascio (release) è una versione di un prodotto, servizio o altro elemento della configurazione, oppure un insieme di elementi della configurazione, resa disponibile per l'uso."
+  },
+  {
+    "id": 106,
+    "question": "Che cos'è un 'cambiamento' nella terminologia ITIL?",
+    "options": [
+      "A. Un'interruzione non pianificata del servizio",
+      "B. Un insieme di risorse organizzative progettate per raggiungere un obiettivo",
+      "C. L'aggiunta, modifica o rimozione di qualsiasi elemento che possa avere un effetto diretto o indiretto su prodotti e servizi",
+      "D. Una richiesta di servizio standard"
+    ],
+    "correct_answer": "C",
+    "explanation": "Un cambiamento è l'aggiunta, modifica o rimozione di qualsiasi elemento che possa avere un effetto diretto o indiretto su prodotti e servizi."
+  },
+  {
+    "id": 107,
+    "question": "Quale delle seguenti è una metrica chiave di successo dell'attività 'Erogare'?",
+    "options": [
+      "A. Qualità delle soluzioni di prodotto",
+      "B. Soddisfazione di clienti e utenti per la qualità del servizio",
+      "C. Ciclo di costruzione",
+      "D. Copertura ed efficacia del monitoraggio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le metriche chiave dell'attività 'Erogare' includono: soddisfazione di clienti e utenti per la qualità del servizio, prestazioni del servizio rispetto ai target SLA concordati."
+  },
+  {
+    "id": 108,
+    "question": "Che cos'è una 'richiesta di servizio' in ITIL?",
+    "options": [
+      "A. Un'interruzione non pianificata di un servizio",
+      "B. Una causa potenziale di uno o più incidenti",
+      "C. Una richiesta presentata da un utente che avvia un'azione del servizio concordata come facente parte del normale funzionamento",
+      "D. Un cambiamento che richiede autorizzazione"
+    ],
+    "correct_answer": "C",
+    "explanation": "Una richiesta di servizio è una richiesta presentata da un utente o dal rappresentante autorizzato di un utente che avvia un'azione del servizio che è stata concordata come facente parte del normale funzionamento del servizio."
+  },
+  {
+    "id": 109,
+    "question": "Che cos'è un 'disastro' in ITIL?",
+    "options": [
+      "A. Un incidente con impatto limitato",
+      "B. Un evento improvviso e non pianificato che provoca notevoli danni o perdite sostanziali per un'organizzazione",
+      "C. Un errore nel codice software",
+      "D. Un problema che è stato analizzato ma non risolto"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un disastro è un evento improvviso e non pianificato che provoca notevoli danni o perdite sostanziali per un'organizzazione. Comporta che l'organizzazione non riesca a garantire le funzioni aziendali critiche per almeno un periodo minimo predefinito."
+  },
+  {
+    "id": 110,
+    "question": "Quale attività del ciclo di vita include l'onboarding e l'offboarding dei fornitori?",
+    "options": [
+      "A. Erogare",
+      "B. Far funzionare",
+      "C. Mettere in esercizio",
+      "D. Acquisire"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lo scopo dell'attività 'Mettere in esercizio' è introdurre prodotti nuovi o aggiornati negli ambienti operativi e garantire un efficace onboarding/offboarding dei fornitori."
+  },
+  {
+    "id": 111,
+    "question": "Quale principio guida ITIL afferma che la cooperazione e la collaborazione sono migliori del lavoro isolato?",
+    "options": [
+      "A. Concentrarsi sul valore",
+      "B. Partire dallo stato attuale",
+      "C. Collaborare e promuovere la visibilità",
+      "D. Mantenere semplicità e praticità"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il principio 'Collaborare e promuovere la visibilità' afferma che la cooperazione e la collaborazione sono migliori del lavoro isolato, che viene spesso definito 'attività in silos'."
+  },
+  {
+    "id": 112,
+    "question": "Secondo il principio 'Mantenere semplicità e praticità', cosa dovrebbe guidare le decisioni di un team di prodotto?",
+    "options": [
+      "A. Dare priorità alle funzionalità che massimizzano il valore e scartare quelle che non lo fanno",
+      "B. Implementare tutte le funzionalità richieste senza eccezioni",
+      "C. Concentrarsi esclusivamente sull'automazione",
+      "D. Seguire i processi senza mai modificarli"
+    ],
+    "correct_answer": "A",
+    "explanation": "I team di prodotto dovrebbero dare priorità alle funzionalità che massimizzano il valore e scartare quelle che non lo fanno."
+  },
+  {
+    "id": 113,
+    "question": "Quale principio guida ITIL raccomanda di usare la misurazione per supportare, e non per sostituire, ciò che viene osservato?",
+    "options": [
+      "A. Concentrarsi sul valore",
+      "B. Partire dallo stato attuale",
+      "C. Ottimizzare e automatizzare",
+      "D. Procedere in modo iterativo con feedback"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il principio 'Partire dallo stato attuale' raccomanda di usare la misurazione per supportare, e non per sostituire, ciò che viene osservato."
+  },
+  {
+    "id": 114,
+    "question": "Quale affermazione riflette NEL MODO MIGLIORE il principio 'Ottimizzare e automatizzare'?",
+    "options": [
+      "A. L'automazione fine a sé stessa può aumentare i costi e introdurre rischi significativi",
+      "B. Tutte le attività manuali devono essere sostituite dall'automazione",
+      "C. L'automazione elimina la necessità della governance",
+      "D. L'ottimizzazione è necessaria solo dopo l'automazione"
+    ],
+    "correct_answer": "A",
+    "explanation": "L'automazione fine a sé stessa può aumentare i costi, introdurre rischi significativi e ridurre la resilienza organizzativa. Prima che un'attività possa essere efficacemente automatizzata deve essere ottimizzata."
+  },
+  {
+    "id": 115,
+    "question": "Un'organizzazione sta migliorando un processo esistente. Quale principio guida suggerisce di osservare direttamente i servizi e i metodi esistenti prima di apportare modifiche?",
+    "options": [
+      "A. Pensare e lavorare in modo olistico",
+      "B. Partire dallo stato attuale",
+      "C. Procedere in modo iterativo con feedback",
+      "D. Ottimizzare e automatizzare"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il principio 'Partire dallo stato attuale' raccomanda di osservare direttamente e misurare i servizi e i metodi esistenti per comprendere appieno lo stato attuale."
+  },
+  {
+    "id": 116,
+    "question": "Quale principio guida ITIL sottolinea che nessun prodotto, servizio, pratica, processo, team o fornitore agisce da solo?",
+    "options": [
+      "A. Collaborare e promuovere la visibilità",
+      "B. Concentrarsi sul valore",
+      "C. Pensare e lavorare in modo olistico",
+      "D. Mantenere semplicità e praticità"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il principio 'Pensare e lavorare in modo olistico' sottolinea che nessun prodotto, servizio, pratica, processo, team o fornitore agisce da solo."
+  },
+  {
+    "id": 117,
+    "question": "Un membro del team nota che una dashboard non viene utilizzata da nessuno ma viene comunque aggiornata ogni settimana. Quale principio guida suggerisce di eliminare questa attività?",
+    "options": [
+      "A. Partire dallo stato attuale",
+      "B. Procedere in modo iterativo con feedback",
+      "C. Mantenere semplicità e praticità",
+      "D. Collaborare e promuovere la visibilità"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il principio 'Mantenere semplicità e praticità' afferma che se un processo, prodotto, servizio, azione o metrica non riescono ad aggiungere valore o produrre un risultato utile devono essere eliminati."
+  },
+  {
+    "id": 118,
+    "question": "Quale principio guida ITIL è direttamente collegato alla comprensione del consumatore del servizio e delle sue esigenze?",
+    "options": [
+      "A. Concentrarsi sul valore",
+      "B. Partire dallo stato attuale",
+      "C. Ottimizzare e automatizzare",
+      "D. Pensare e lavorare in modo olistico"
+    ],
+    "correct_answer": "A",
+    "explanation": "Il principio 'Concentrarsi sul valore' richiede che il fornitore del servizio determini chi è il consumatore e comprenda perché utilizza i servizi, cosa lo aiuta a fare, e come i servizi lo supportano."
+  },
+  {
+    "id": 119,
+    "question": "Secondo ITIL, quale dei seguenti è un vantaggio dell'integrazione dei cicli di feedback nel flusso di lavoro?",
+    "options": [
+      "A. Eliminare completamente la necessità di revisioni",
+      "B. Garantire che le priorità non cambino mai",
+      "C. Rilevare e rispondere ai guasti in anticipo",
+      "D. Sostituire la necessità di collaborazione tra team"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lavorare in modo iterativo con cicli di feedback incorporati nel flusso di lavoro offre la capacità di rilevare e rispondere ai guasti in anticipo."
+  },
+  {
+    "id": 120,
+    "question": "Una scarsa visibilità del carico di lavoro e dell'avanzamento può causare:",
+    "options": [
+      "A. Un aumento dell'automazione",
+      "B. Decisioni errate, disimpegno e un basso livello di adozione",
+      "C. Una maggiore collaborazione tra i team",
+      "D. Una riduzione dei costi operativi"
+    ],
+    "correct_answer": "B",
+    "explanation": "Una scarsa visibilità del carico di lavoro e dell'avanzamento introduce il rischio che tale lavoro venga percepito come una bassa priorità. Una mancanza di visibilità causa decisioni errate, disimpegno e un basso livello di adozione."
+  },
+  {
+    "id": 121,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE la 'gestione dei prodotti e dei servizi digitali'?",
+    "options": [
+      "A. Un insieme di abilità organizzative specializzate nel consentire la creazione del valore per i clienti sotto forma di prodotti e di servizi digitali",
+      "B. Un singolo processo per la gestione dell'infrastruttura IT",
+      "C. Un framework esclusivamente dedicato allo sviluppo software",
+      "D. Un accordo contrattuale tra fornitore e consumatore"
+    ],
+    "correct_answer": "A",
+    "explanation": "La gestione dei prodotti e dei servizi digitali è un insieme di abilità organizzative specializzate nel consentire la creazione del valore per i clienti sotto forma di prodotti e di servizi digitali."
+  },
+  {
+    "id": 122,
+    "question": "Quale delle seguenti affermazioni sulla relazione tra prodotti e servizi digitali è CORRETTA?",
+    "options": [
+      "A. Un prodotto può abilitare un solo servizio",
+      "B. Un prodotto può abilitare molti servizi, e un servizio può essere basato su diversi prodotti",
+      "C. I servizi non hanno alcuna relazione con i prodotti",
+      "D. Un servizio può esistere senza alcun prodotto digitale"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un prodotto può abilitare molti servizi, e un servizio può essere basato su diversi prodotti."
+  },
+  {
+    "id": 123,
+    "question": "Cosa si intende per 'beni' in ITIL?",
+    "options": [
+      "A. Servizi forniti tramite una piattaforma cloud",
+      "B. Risorse tangibili trasferite o disponibili per il trasferimento da un fornitore a un consumatore di servizi, insieme alla proprietà con i diritti e le responsabilità associati",
+      "C. Qualsiasi risorsa digitale utilizzata nell'erogazione di servizi",
+      "D. I profitti generati dalla fornitura di servizi"
+    ],
+    "correct_answer": "B",
+    "explanation": "I beni sono risorse tangibili trasferite o disponibili per il trasferimento da un fornitore a un consumatore di servizi, insieme alla proprietà con i diritti e le responsabilità associati."
+  },
+  {
+    "id": 124,
+    "question": "Quale delle seguenti è la definizione CORRETTA di 'costo' in ITIL?",
+    "options": [
+      "A. Il rischio associato all'erogazione di un servizio",
+      "B. La quantità di denaro speso per una specifica attività, risorsa, prodotto o servizio",
+      "C. La percezione dei benefici di un servizio",
+      "D. Il livello di soddisfazione degli utenti"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il costo è la quantità di denaro speso per una specifica attività, risorsa, prodotto o servizio."
+  },
+  {
+    "id": 125,
+    "question": "Quale delle seguenti afferma che il fornitore del servizio è responsabile della fornitura e del supporto dei servizi?",
+    "options": [
+      "A. La definizione di consumatore del servizio",
+      "B. La definizione di fornitore del servizio",
+      "C. La definizione di fornitore di prodotti digitali",
+      "D. La definizione di sponsor"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il fornitore del servizio è un'organizzazione responsabile della fornitura e del supporto dei servizi."
+  },
+  {
+    "id": 126,
+    "question": "Quale organizzazione è responsabile della creazione e del miglioramento continuo di prodotti digitali e delle relative offerte di servizi?",
+    "options": [
+      "A. Il consumatore del servizio",
+      "B. Lo sponsor",
+      "C. Il fornitore di prodotti digitali",
+      "D. L'utente"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il fornitore di prodotti digitali è un'organizzazione responsabile della creazione e del miglioramento continuo di prodotti digitali e delle relative offerte di servizi."
+  },
+  {
+    "id": 127,
+    "question": "Il modello del ciclo di vita dei prodotti e dei servizi ITIL comprende quante fasi del ciclo di vita?",
+    "options": [
+      "A. Quattro",
+      "B. Cinque",
+      "C. Sette",
+      "D. Otto"
+    ],
+    "correct_answer": "D",
+    "explanation": "Il modello del ciclo di vita dei prodotti e dei servizi comprende otto fasi del ciclo di vita: Scoprire, Progettare, Acquisire, Costruire, Mettere in esercizio, Far funzionare, Erogare, Supportare."
+  },
+  {
+    "id": 128,
+    "question": "Secondo ITIL, il valore del servizio è espresso come la combinazione di quali quattro elementi?",
+    "options": [
+      "A. Costo, rischio, profitto, conformità",
+      "B. Utilità, garanzia, sostenibilità, esperienza",
+      "C. Disponibilità, capacità, sicurezza, continuità",
+      "D. Progettazione, costruzione, erogazione, supporto"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il valore del servizio è espresso come: utilità + garanzia + sostenibilità + esperienza."
+  },
+  {
+    "id": 129,
+    "question": "Quale delle seguenti è una forma di interazione di servizio RARA nei servizi digitali?",
+    "options": [
+      "A. Accesso alle risorse",
+      "B. Azioni del servizio",
+      "C. Trasferimento di beni",
+      "D. Co-creazione del valore"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il trasferimento di beni è una forma di interazione di servizio rara nei servizi digitali. I fornitori del servizio hanno la finalità di ridurre al minimo la necessità di trasferire beni."
+  },
+  {
+    "id": 130,
+    "question": "Quale affermazione descrive correttamente la differenza tra 'percorso del servizio' e 'banda di visibilità'?",
+    "options": [
+      "A. Sono sinonimi utilizzati in contesti diversi",
+      "B. Il percorso del servizio si concentra su ciò che accade nel tempo, la banda di visibilità si concentra su ciò che viene visto",
+      "C. Il percorso del servizio riguarda solo il fornitore, la banda di visibilità riguarda solo il consumatore",
+      "D. Entrambi descrivono le metriche del livello di servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il percorso del servizio si concentra su ciò che accade nel tempo. La banda di visibilità si concentra su ciò che viene visto."
+  },
+  {
+    "id": 131,
+    "question": "Che cos'è la Continuous Integration (CI)?",
+    "options": [
+      "A. Un approccio per rilasciare automaticamente in produzione ogni modifica",
+      "B. Un metodo in cui gli sviluppatori uniscono regolarmente le proprie modifiche del codice in un repository centrale, seguito da build e test automatici",
+      "C. Un processo manuale di revisione del codice",
+      "D. Un documento che descrive le specifiche del prodotto"
+    ],
+    "correct_answer": "B",
+    "explanation": "La Continuous Integration (CI) è un metodo di ingegneria del software in cui gli sviluppatori uniscono regolarmente le proprie modifiche del codice in un repository centrale, dopo di che vengono eseguiti build e test automatici."
+  },
+  {
+    "id": 132,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE il Continuous Delivery (CD)?",
+    "options": [
+      "A. Un approccio in cui ogni modifica viene automaticamente implementata in produzione",
+      "B. Un approccio in cui il software può essere rilasciato in produzione in qualsiasi momento, ma le decisioni di deployment vengono prese caso per caso",
+      "C. Un processo in cui il codice non viene mai testato prima del rilascio",
+      "D. Un approccio in cui si rilascia in produzione solo una volta all'anno"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il Continuous Delivery (CD) è un approccio allo sviluppo software in cui il software può essere rilasciato in produzione in qualsiasi momento. Sono possibili deployment frequenti, ma le decisioni di deployment vengono prese caso per caso."
+  },
+  {
+    "id": 133,
+    "question": "Che cos'è il Site Reliability Engineering (SRE)?",
+    "options": [
+      "A. Un framework di governance per i servizi digitali",
+      "B. Una disciplina che integra principi di ingegneria del software e li applica ai problemi infrastrutturali e di operatività per creare sistemi scalabili e altamente affidabili",
+      "C. Un modello per la valutazione della maturità delle pratiche ITIL",
+      "D. Un tipo di relazione di servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il Site Reliability Engineering (SRE) è una disciplina che integra principi di ingegneria del software e li applica ai problemi infrastrutturali e di operatività, con l'obiettivo di creare sistemi software scalabili e altamente affidabili."
+  },
+  {
+    "id": 134,
+    "question": "Che cos'è un 'errore' nella terminologia ITIL?",
+    "options": [
+      "A. Un problema che è stato analizzato ma non risolto",
+      "B. Un difetto o una vulnerabilità che può causare uno o più incidenti",
+      "C. Un'interruzione non pianificata di un servizio",
+      "D. Una richiesta di servizio respinta"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un errore è un difetto o una vulnerabilità che può causare uno o più incidenti."
+  },
+  {
+    "id": 135,
+    "question": "Quale delle seguenti è una metrica chiave di successo dell'attività 'Supportare'?",
+    "options": [
+      "A. Adeguatezza strategica dell'offerta di prodotti",
+      "B. Velocità di ripristino del normale servizio",
+      "C. Qualità delle specifiche e dei prototipi",
+      "D. Ciclo di transizione"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le metriche chiave dell'attività 'Supportare' includono: soddisfazione di clienti e utenti per il supporto del servizio, velocità di ripristino del normale servizio, impatto negativo di incidenti e disastri."
+  },
+  {
+    "id": 136,
+    "question": "L'attività 'Scoprire' viene eseguita su tre livelli. Quali sono?",
+    "options": [
+      "A. Tecnico, operativo, finanziario",
+      "B. Organizzativo, di portafoglio, di prodotto",
+      "C. Strategico, tattico, di supporto",
+      "D. Interno, esterno, di governance"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'attività 'Scoprire' viene eseguita su 3 livelli: livello organizzativo (visione, strategia, consumatori target), livello di portafoglio (ottimizzare e allineare alla strategia), livello di prodotto (mantenere roadmap allineate)."
+  },
+  {
+    "id": 137,
+    "question": "Quale approccio alla progettazione privilegia le esigenze e le esperienze degli utenti ed è radicato nell'empatia?",
+    "options": [
+      "A. Progettazione basata sui costi",
+      "B. Human-Centred Design (HCD)",
+      "C. Progettazione orientata ai processi",
+      "D. Progettazione basata sulla conformità"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'Human-Centred Design (HCD) è un approccio alla risoluzione dei problemi che privilegia le esigenze e le esperienze degli utenti, radicato nell'empatia e nel processo iterativo."
+  },
+  {
+    "id": 138,
+    "question": "Che cos'è un CMDB?",
+    "options": [
+      "A. Un accordo sul livello di servizio documentato",
+      "B. Un database utilizzato per archiviare i configuration records nel corso del loro ciclo di vita e le relazioni tra di essi",
+      "C. Un modello per il miglioramento continuo",
+      "D. Uno strumento per la gestione dei rilasci"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il CMDB (Database per la gestione della configurazione) è un database utilizzato per archiviare i configuration records nel corso del loro ciclo di vita. Il CMDB gestisce inoltre le relazioni tra i configuration record."
+  },
+  {
+    "id": 139,
+    "question": "Le attività di gestione del ciclo di vita ITIL vengono sempre eseguite in una sequenza fissa?",
+    "options": [
+      "A. Sì, devono seguire l'ordine prestabilito",
+      "B. No, non vengono eseguite in una sequenza fissa; si combinano nel contesto per formare flussi del valore",
+      "C. Sì, ma solo per i prodotti digitali",
+      "D. No, vengono eseguite in ordine casuale senza alcuna logica"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le attività abilitano e supportano il ciclo di vita, ma non vengono eseguite in una sequenza fissa; si combinano invece nel contesto per formare flussi del valore."
+  },
+  {
+    "id": 140,
+    "question": "Quale attività del ciclo di vita ha come output 'soluzioni di prodotto costruite e testate'?",
+    "options": [
+      "A. Progettare",
+      "B. Acquisire",
+      "C. Costruire",
+      "D. Mettere in esercizio"
+    ],
+    "correct_answer": "C",
+    "explanation": "L'output dell'attività 'Costruire' sono soluzioni di prodotto costruite e testate."
+  },
+  {
+    "id": 141,
+    "question": "Quale delle seguenti è una metrica chiave di successo dell'attività 'Mettere in esercizio'?",
+    "options": [
+      "A. Soddisfazione delle parti interessate per i prodotti e le offerte di servizio",
+      "B. Impatto negativo della messa in esercizio sulla disponibilità e sulle prestazioni del servizio",
+      "C. Qualità delle risorse e dei servizi",
+      "D. Prestazioni del servizio rispetto ai target SLA"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le metriche chiave dell'attività 'Mettere in esercizio' includono: ciclo di transizione, impatto negativo della messa in esercizio sulla disponibilità e sulle prestazioni del servizio, numero e impatto degli errori di messa in esercizio."
+  },
+  {
+    "id": 142,
+    "question": "L'attività 'Erogare' è direttamente collegata a quale tipo di accordo?",
+    "options": [
+      "A. Accordo di partnership",
+      "B. Accordo sul livello di servizio (SLA)",
+      "C. Contratto di licenza software",
+      "D. Accordo di riservatezza"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'attività 'Erogare' si concentra sull'erogazione di servizi agli utenti in linea con gli accordi sul livello di servizio (SLA)."
+  },
+  {
+    "id": 143,
+    "question": "Quante dimensioni della gestione dei prodotti e dei servizi definisce ITIL?",
+    "options": [
+      "A. Due",
+      "B. Tre",
+      "C. Quattro",
+      "D. Cinque"
+    ],
+    "correct_answer": "C",
+    "explanation": "ITIL definisce quattro dimensioni della gestione dei prodotti e dei servizi: Organizzazioni e persone, Informazioni e tecnologia, Partner e fornitori, Flussi del valore e processi."
+  },
+  {
+    "id": 144,
+    "question": "Quale affermazione sulla dimensione 'Organizzazioni e persone' è CORRETTA?",
+    "options": [
+      "A. Si occupa esclusivamente della gestione delle infrastrutture IT",
+      "B. Assicura che la struttura, i ruoli, le responsabilità e i sistemi di autorità e comunicazione siano ben definiti e supportino la strategia",
+      "C. Si concentra sulla gestione dei contratti con i fornitori",
+      "D. Riguarda esclusivamente la formazione tecnica del personale"
+    ],
+    "correct_answer": "B",
+    "explanation": "La dimensione 'Organizzazioni e persone' assicura che la struttura, i ruoli, le responsabilità e i sistemi di autorità e comunicazione siano ben definiti e supportino la strategia e il modello operativo nel suo complesso."
+  },
+  {
+    "id": 145,
+    "question": "Che cos'è la 'cultura' secondo ITIL?",
+    "options": [
+      "A. Un insieme di regole formali imposte dalla governance",
+      "B. Un insieme di valori condivisi da un gruppo di persone, espresso attraverso i comportamenti, le idee, le convinzioni e le pratiche delle persone",
+      "C. Un manuale operativo per la gestione dei servizi",
+      "D. Un tipo di relazione di servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "La cultura è un insieme di valori condivisi da un gruppo di persone, espresso attraverso i comportamenti, le idee, le convinzioni e le pratiche delle persone."
+  },
+  {
+    "id": 146,
+    "question": "Quale delle seguenti NON è una caratteristica di un leader efficace secondo ITIL?",
+    "options": [
+      "A. Coinvolgere, ispirare e motivare con integrità",
+      "B. Creare una cultura sana dimostrando i valori organizzativi",
+      "C. Concentrarsi esclusivamente sugli aspetti tecnici ignorando le persone",
+      "D. Impegnarsi verso la conoscenza e l'apprendimento continuo"
+    ],
+    "correct_answer": "C",
+    "explanation": "I leader efficaci devono coinvolgere, ispirare e motivare; concentrarsi sul valore; creare una cultura sana; creare e comunicare una visione chiara; impegnarsi verso la conoscenza e l'apprendimento continuo."
+  },
+  {
+    "id": 147,
+    "question": "Che cos'è la 'cultura della sicurezza' in ITIL?",
+    "options": [
+      "A. Una politica di sicurezza informatica",
+      "B. Una cultura organizzativa in cui le persone si sentono a proprio agio nell'essere e nell'esprimere se stesse",
+      "C. Un requisito di conformità normativa",
+      "D. Un sistema di controllo degli accessi"
+    ],
+    "correct_answer": "B",
+    "explanation": "La cultura della sicurezza (psicologica) è una cultura organizzativa in cui le persone si sentono a proprio agio nell'essere (e nell'esprimere) se stesse."
+  },
+  {
+    "id": 148,
+    "question": "Cosa afferma la Legge di Conway?",
+    "options": [
+      "A. I costi dei servizi IT tendono a raddoppiare ogni anno",
+      "B. Le organizzazioni che progettano sistemi sono vincolate a produrre progetti che sono copie delle strutture di comunicazione di queste organizzazioni",
+      "C. I servizi digitali sono sempre più affidabili dei servizi fisici",
+      "D. L'automazione riduce sempre i costi"
+    ],
+    "correct_answer": "B",
+    "explanation": "La Legge di Conway afferma che le organizzazioni che progettano sistemi sono vincolate a produrre progetti che sono copie delle strutture di comunicazione di queste organizzazioni."
+  },
+  {
+    "id": 149,
+    "question": "Che cos'è l'approccio 'Reverse Conway'?",
+    "options": [
+      "A. Un approccio per invertire i processi di sviluppo",
+      "B. Un approccio in cui le organizzazioni progettano deliberatamente le strutture dei team per allinearsi all'architettura desiderata di prodotto",
+      "C. Un metodo per ridurre il personale IT",
+      "D. Un framework di governance alternativo"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'approccio Reverse Conway prevede che le organizzazioni progettino deliberatamente le strutture dei team per allinearsi all'architettura desiderata di prodotto o architettura dei servizi."
+  },
+  {
+    "id": 150,
+    "question": "Quale delle seguenti descrive il ruolo dell'IA nella dimensione 'Informazioni e tecnologia'?",
+    "options": [
+      "A. L'IA sostituisce completamente le decisioni umane",
+      "B. L'IA è un partner collaborativo che migliora i punti di forza umani e compensa le limitazioni",
+      "C. L'IA è utilizzata solo per l'automazione delle attività manuali",
+      "D. L'IA non ha alcun ruolo in ITIL"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'IA è un partner collaborativo che migliora i punti di forza umani e compensa le limitazioni. Supporta tramite elaborazione delle informazioni, riconoscimento di schemi e riduzione dei pregiudizi."
+  },
+  {
+    "id": 151,
+    "question": "Quale affermazione sulla governance dei dati è CORRETTA?",
+    "options": [
+      "A. La governance dei dati riguarda solo la sicurezza informatica",
+      "B. La governance dei dati è un sistema di regole, politiche, standard, processi e controlli per gestire efficacemente gli asset di dati",
+      "C. La governance dei dati è responsabilità esclusiva del team IT",
+      "D. La governance dei dati non ha principi chiave"
+    ],
+    "correct_answer": "B",
+    "explanation": "La governance dei dati è un sistema di regole, politiche, standard, processi e controlli che le organizzazioni implementano per gestire efficacemente i propri asset di dati."
+  },
+  {
+    "id": 152,
+    "question": "Quale delle seguenti è la differenza tra dati, informazioni e conoscenza?",
+    "options": [
+      "A. Non c'è differenza, sono sinonimi",
+      "B. I dati sono fatti grezzi, le informazioni sono dati elaborati con contesto, la conoscenza è informazioni ed esperienza applicata",
+      "C. I dati sono sempre digitali, le informazioni sempre cartacee",
+      "D. La conoscenza precede l'informazione che precede i dati"
+    ],
+    "correct_answer": "B",
+    "explanation": "I dati sono fatti e numeri grezzi, senza significato intrinseco. Le informazioni sono dati elaborati con contesto e significato. La conoscenza è informazioni ed esperienza applicata."
+  },
+  {
+    "id": 153,
+    "question": "Quale fattore NON influenza la strategia di un'organizzazione in materia di fornitori?",
+    "options": [
+      "A. Competenza specifica del fornitore",
+      "B. La quantità di server fisici nel data center del fornitore",
+      "C. Vincoli esterni come normative e politiche",
+      "D. Carenza di risorse interne"
+    ],
+    "correct_answer": "B",
+    "explanation": "I fattori che influenzano la strategia sui fornitori includono: focus strategico, cultura aziendale, carenza di risorse, considerazioni sui costi, competenza specifica, vincoli esterni e schemi di domanda."
+  },
+  {
+    "id": 154,
+    "question": "ITIL descrive quattro tipi di contesto di complessità. Quali sono?",
+    "options": [
+      "A. Semplice, difficile, impossibile, ignoto",
+      "B. Ordinato, complesso, caotico, confuso",
+      "C. Basso, medio, alto, critico",
+      "D. Lineare, ciclico, iterativo, agile"
+    ],
+    "correct_answer": "B",
+    "explanation": "In ITIL le variazioni contestuali sono descritte come quattro ampie categorie: ordinate, complesse, caotiche e confuse."
+  },
+  {
+    "id": 155,
+    "question": "Quale delle seguenti tecnologie NON è menzionata come supporto alla gestione dei prodotti e dei servizi?",
+    "options": [
+      "A. Basi di conoscenza e sistemi di comunicazione",
+      "B. Intelligenza Artificiale e strumenti analitici",
+      "C. Blockchain e criptovalute",
+      "D. Soluzioni cloud e strumenti di collaborazione remota"
+    ],
+    "correct_answer": "C",
+    "explanation": "Le tecnologie menzionate includono: sistemi di comunicazione, basi di conoscenza, IA, esecuzione dei test e monitoring automatizzati, strumenti analitici, soluzioni cloud e strumenti di collaborazione remota."
+  },
+  {
+    "id": 156,
+    "question": "Quale modello ITIL descrive le principali capacità funzionali dell'IA ed è noto come modello 6C?",
+    "options": [
+      "A. Il modello di miglioramento continuo ITIL",
+      "B. L'ITIL AI Capability Model",
+      "C. Il modello delle 4 dimensioni",
+      "D. Il modello della catena del valore"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'ITIL AI Capability Model, noto anche come modello 6C, descrive le principali capacità funzionali dell'IA."
+  },
+  {
+    "id": 157,
+    "question": "Quante pratiche di gestione include ITIL?",
+    "options": [
+      "A. 12",
+      "B. 22",
+      "C. 34",
+      "D. 40"
+    ],
+    "correct_answer": "C",
+    "explanation": "ITIL include 34 pratiche di gestione combinate in due gruppi: pratiche per la gestione generale (12) e pratiche di gestione di prodotti e servizi (22)."
+  },
+  {
+    "id": 158,
+    "question": "In quanti gruppi sono combinate le pratiche di gestione ITIL?",
+    "options": [
+      "A. Uno",
+      "B. Due",
+      "C. Tre",
+      "D. Quattro"
+    ],
+    "correct_answer": "B",
+    "explanation": "ITIL include 34 pratiche di gestione combinate in due gruppi: pratiche per la gestione generale (12) e pratiche di gestione di prodotti e servizi (22)."
+  },
+  {
+    "id": 159,
+    "question": "Quale delle seguenti NON è una pratica di gestione generale ITIL?",
+    "options": [
+      "A. Gestione delle strategie",
+      "B. Miglioramento continuo",
+      "C. Gestione degli incidenti",
+      "D. Gestione della conoscenza"
+    ],
+    "correct_answer": "C",
+    "explanation": "La gestione degli incidenti è una pratica di gestione dei prodotti e dei servizi, non una pratica di gestione generale."
+  },
+  {
+    "id": 160,
+    "question": "Ogni pratica di gestione combina risorse provenienti da quante dimensioni?",
+    "options": [
+      "A. Due",
+      "B. Tre",
+      "C. Quattro",
+      "D. Cinque"
+    ],
+    "correct_answer": "C",
+    "explanation": "Ogni pratica combina risorse provenienti dalle quattro dimensioni per consentire a un'organizzazione di gestire aspetti specifici di prodotti e servizi digitali."
+  },
+  {
+    "id": 161,
+    "question": "Un'azienda di consulenza offre sessioni di formazione personalizzate ai clienti. Quale forma di interazione di servizio rappresenta?",
+    "options": [
+      "A. Trasferimento di beni",
+      "B. Accesso alle risorse",
+      "C. Azione del servizio",
+      "D. Offerta di servizio"
+    ],
+    "correct_answer": "C",
+    "explanation": "Le azioni del servizio sono azioni eseguite da un fornitore del servizio o congiuntamente da un fornitore e consumatore del servizio. La formazione degli utenti è un esempio di azione del servizio."
+  },
+  {
+    "id": 162,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE il concetto di 'rischio' in ITIL?",
+    "options": [
+      "A. Un costo aggiuntivo associato alla fornitura di un servizio",
+      "B. Un possibile evento che potrebbe causare un danno o una perdita o compromettere la capacità di raggiungere gli obiettivi",
+      "C. Un incidente che si è già verificato",
+      "D. Un indicatore di prestazione del servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un rischio è un possibile evento che potrebbe causare un danno o una perdita o compromettere la capacità di raggiungere gli obiettivi."
+  },
+  {
+    "id": 163,
+    "question": "In ITIL, quando inizia l'erogazione e il consumo del servizio?",
+    "options": [
+      "A. Quando il prodotto digitale è completato",
+      "B. Quando i clienti accettano le offerte di servizio",
+      "C. Quando lo SLA è firmato",
+      "D. Quando il fornitore completa la progettazione"
+    ],
+    "correct_answer": "B",
+    "explanation": "Quando i clienti accettano le offerte di servizio inizia l'erogazione e il consumo del servizio."
+  },
+  {
+    "id": 164,
+    "question": "In un'azienda, il CFO rivede e approva i costi per un nuovo servizio di comunicazione mobile. Quale ruolo del consumatore svolge il CFO?",
+    "options": [
+      "A. Utente",
+      "B. Cliente",
+      "C. Sponsor",
+      "D. Fornitore del servizio"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lo sponsor è il ruolo che autorizza il budget per il consumo del servizio. In questo caso il CFO rivede e approva i costi, agendo come sponsor."
+  },
+  {
+    "id": 165,
+    "question": "Quale affermazione sulla sostenibilità in ITIL è CORRETTA?",
+    "options": [
+      "A. La sostenibilità riguarda solo l'aspetto ambientale",
+      "B. La sostenibilità è la garanzia che un prodotto o servizio soddisfi i requisiti di gestione responsabile dell'ambiente, progresso sociale e crescita economica",
+      "C. La sostenibilità è opzionale e non influenza il valore del servizio",
+      "D. La sostenibilità si applica solo ai prodotti fisici"
+    ],
+    "correct_answer": "B",
+    "explanation": "La sostenibilità è la garanzia che un prodotto o servizio soddisfi e continui a soddisfare i requisiti di gestione responsabile dell'ambiente, progresso sociale, e crescita economica."
+  },
+  {
+    "id": 166,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE il concetto di 'valore' in ITIL?",
+    "options": [
+      "A. La percezione dei vantaggi, dell'utilità e dell'importanza di qualcosa",
+      "B. Il prezzo pagato per un servizio",
+      "C. La somma dei costi operativi di un servizio",
+      "D. Il numero di utenti che utilizzano un servizio"
+    ],
+    "correct_answer": "A",
+    "explanation": "Il valore è la percezione dei vantaggi, dell'utilità e dell'importanza di qualcosa."
+  },
+  {
+    "id": 167,
+    "question": "Quale tipo di relazione di servizio coinvolge tipicamente il livello organizzativo operativo, tattico e strategico?",
+    "options": [
+      "A. Relazione di base",
+      "B. Relazione di cooperazione",
+      "C. Relazione collaborativa",
+      "D. Relazione standardizzata"
+    ],
+    "correct_answer": "C",
+    "explanation": "La relazione collaborativa coinvolge tipicamente il livello organizzativo operativo, tattico e strategico, con focus su innovazione e crescita."
+  },
+  {
+    "id": 168,
+    "question": "Quali sono gli SLA tipicamente associati alla relazione di base?",
+    "options": [
+      "A. Contratti su misura e accordi basati sui risultati",
+      "B. Contratti standard, SLA e accordi basati sull'esperienza per il mercato di massa",
+      "C. SLA avanzati e accordi basati sull'esperienza",
+      "D. Nessun accordo formale"
+    ],
+    "correct_answer": "B",
+    "explanation": "La relazione di base utilizza tipicamente contratti standard, accordi sul livello di servizio (SLA), e accordi basati sull'esperienza, principalmente per il mercato di massa."
+  },
+  {
+    "id": 169,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE la catena del valore in ITIL?",
+    "options": [
+      "A. Un singolo processo sequenziale per l'erogazione dei servizi",
+      "B. Un intero insieme di attività che crea valore attraverso la fornitura di un prodotto o di un servizio",
+      "C. Un elenco di pratiche di gestione ordinate per priorità",
+      "D. Un documento che descrive gli SLA con i clienti"
+    ],
+    "correct_answer": "B",
+    "explanation": "La catena del valore è un intero insieme di attività che crea valore attraverso la fornitura di un prodotto o di un servizio."
+  },
+  {
+    "id": 170,
+    "question": "Un team IT sta risolvendo un problema che causa interruzioni ripetute di un servizio critico. Quale attività del ciclo di vita è coinvolta?",
+    "options": [
+      "A. Scoprire",
+      "B. Far funzionare",
+      "C. Supportare",
+      "D. Progettare"
+    ],
+    "correct_answer": "C",
+    "explanation": "L'attività 'Supportare' ha lo scopo di identificare e risolvere gli incidenti. Include anche l'indagine sugli incidenti e l'identificazione degli errori nei prodotti."
+  },
+  {
+    "id": 171,
+    "question": "Un'organizzazione sta trasferendo un nuovo sistema CRM nell'ambiente di produzione dopo aver completato i test. Quale attività è in corso?",
+    "options": [
+      "A. Costruire",
+      "B. Erogare",
+      "C. Mettere in esercizio",
+      "D. Scoprire"
+    ],
+    "correct_answer": "C",
+    "explanation": "L'attività 'Mettere in esercizio' sposta nel live environment i prodotti e le risorse realizzati o acquisiti, assicurando che siano pronti per l'esercizio."
+  },
+  {
+    "id": 172,
+    "question": "Un product owner analizza i trend di mercato e raccoglie feedback dai clienti per aggiornare la roadmap del prodotto. Quale attività sta svolgendo?",
+    "options": [
+      "A. Progettare",
+      "B. Scoprire",
+      "C. Acquisire",
+      "D. Erogare"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'attività 'Scoprire' ha come scopo garantire il continuo allineamento delle roadmap di prodotto con le esigenze dei consumatori e la strategia organizzativa."
+  },
+  {
+    "id": 173,
+    "question": "A quale attività del ciclo di vita appartiene l'output 'risorse e servizi acquisiti'?",
+    "options": [
+      "A. Costruire",
+      "B. Progettare",
+      "C. Acquisire",
+      "D. Mettere in esercizio"
+    ],
+    "correct_answer": "C",
+    "explanation": "L'output dell'attività 'Acquisire' sono risorse e servizi acquisiti."
+  },
+  {
+    "id": 174,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE il rapporto tra scopo dell'organizzazione, modello operativo e catena del valore?",
+    "options": [
+      "A. Sono tre concetti completamente indipendenti",
+      "B. Lo scopo definisce l'intento, il modello operativo mostra come realizzarlo, e la catena del valore è il livello più alto dei flussi del modello operativo",
+      "C. Il modello operativo sostituisce lo scopo una volta definita la catena del valore",
+      "D. La catena del valore definisce lo scopo dell'organizzazione"
+    ],
+    "correct_answer": "B",
+    "explanation": "Lo scopo dell'organizzazione ne definisce l'intento. Il modello operativo mostra come l'organizzazione co-crea valore. Il livello più alto della dimensione 'flussi di valore e processi' di un modello operativo può essere descritto come la catena del valore."
+  },
+  {
+    "id": 175,
+    "question": "Quale delle seguenti è una metrica chiave dell'attività 'Progettare'?",
+    "options": [
+      "A. Velocità di ripristino del normale servizio",
+      "B. Qualità delle specifiche e dei prototipi del prodotto",
+      "C. Numero e impatto degli incidenti",
+      "D. Tasso di successo delle versioni distribuite"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le metriche chiave di successo dell'attività 'Progettare' includono: qualità delle specifiche e dei prototipi del prodotto, tempo di ciclo, allineamento alla roadmap, soddisfazione delle parti interessate."
+  },
+  {
+    "id": 176,
+    "question": "Quale affermazione sull'attività 'Far funzionare' è CORRETTA?",
+    "options": [
+      "A. È l'attività più visibile ai clienti",
+      "B. Comprende attività per lo più invisibili ai clienti, a meno che non sorgano problemi",
+      "C. Si occupa esclusivamente dell'erogazione dei servizi agli utenti",
+      "D. Ha come output principale la roadmap di prodotto"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'attività 'Far funzionare' comprende attività per lo più invisibili ai clienti, a meno che non sorgano problemi. Una gestione corretta delle operazioni previene le interruzioni e garantisce affidabilità."
+  },
+  {
+    "id": 177,
+    "question": "Che cos'è l'affidabilità in ITIL?",
+    "options": [
+      "A. La capacità di un fornitore di ridurre i costi",
+      "B. La caratteristica per cui un prodotto o servizio è in grado di svolgere la funzione prevista per un periodo di tempo specificato",
+      "C. La velocità di risoluzione degli incidenti",
+      "D. Un tipo di accordo sul livello di servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'affidabilità è la caratteristica per cui un prodotto, un servizio o altro elemento della configurazione è in grado di svolgere la funzione prevista per un periodo di tempo o un numero di cicli specificato."
+  },
+  {
+    "id": 178,
+    "question": "Quale delle seguenti è una metrica chiave di successo dell'attività 'Acquisire'?",
+    "options": [
+      "A. Prestazioni del servizio rispetto ai target SLA",
+      "B. Tempo di ciclo per 'Acquisire'",
+      "C. Numero di incidenti risolti",
+      "D. Copertura ed efficacia del monitoraggio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le metriche chiave dell'attività 'Acquisire' includono: qualità delle risorse e dei servizi, tempo di ciclo per 'Acquisire', allineamento alla roadmap, soddisfazione delle parti interessate."
+  },
+  {
+    "id": 179,
+    "question": "Un'organizzazione decide di automatizzare un processo di approvazione. Prima di farlo, rivede e semplifica i passaggi esistenti. Quale principio guida sta applicando?",
+    "options": [
+      "A. Concentrarsi sul valore",
+      "B. Partire dallo stato attuale",
+      "C. Ottimizzare e automatizzare",
+      "D. Pensare e lavorare in modo olistico"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il principio 'Ottimizzare e automatizzare' afferma di semplificare e/o ottimizzare prima di automatizzare. L'organizzazione sta correttamente ottimizzando il processo prima di automatizzarlo."
+  },
+  {
+    "id": 180,
+    "question": "Quale principio guida afferma che collaborazione non significa consenso?",
+    "options": [
+      "A. Concentrarsi sul valore",
+      "B. Collaborare e promuovere la visibilità",
+      "C. Mantenere semplicità e praticità",
+      "D. Procedere in modo iterativo con feedback"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il principio 'Collaborare e promuovere la visibilità' specifica che collaborazione non significa consenso. Le decisioni possono essere prese solo utilizzando dati visibili."
+  },
+  {
+    "id": 181,
+    "question": "Un team sta considerando di ricostruire completamente un sistema legacy. Quale principio guida suggerisce di valutare prima cosa può essere riutilizzato?",
+    "options": [
+      "A. Ottimizzare e automatizzare",
+      "B. Concentrarsi sul valore",
+      "C. Partire dallo stato attuale",
+      "D. Pensare e lavorare in modo olistico"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il principio 'Partire dallo stato attuale' afferma: non ricominciare da capo senza prima considerare ciò che è già disponibile e che può essere riutilizzato."
+  },
+  {
+    "id": 182,
+    "question": "Secondo ITIL, quanti principi guida esistono?",
+    "options": [
+      "A. Cinque",
+      "B. Sei",
+      "C. Sette",
+      "D. Otto"
+    ],
+    "correct_answer": "C",
+    "explanation": "ITIL definisce sette principi guida: Concentrarsi sul valore, Partire dallo stato attuale, Procedere in modo iterativo con feedback, Collaborare e promuovere la visibilità, Pensare e lavorare in modo olistico, Mantenere semplicità e praticità, Ottimizzare e automatizzare."
+  },
+  {
+    "id": 183,
+    "question": "Che cos'è un flusso del valore in ITIL?",
+    "options": [
+      "A. Un modello di governance per i prodotti digitali",
+      "B. Una serie di passaggi intrapresi da un'organizzazione per creare ed erogare prodotti e servizi a un consumatore di servizi",
+      "C. Un gruppo di pratiche di gestione",
+      "D. Un elenco di metriche per misurare la qualità del servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un flusso del valore è una serie di passaggi intrapresi da un'organizzazione per creare ed erogare prodotti e servizi a un consumatore di servizi."
+  },
+  {
+    "id": 184,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE un flusso del valore principale?",
+    "options": [
+      "A. Un flusso del valore che supporta le operazioni interne",
+      "B. Un flusso del valore che abilita il valore per i consumatori in una forma prevista dal modello operativo dell'organizzazione",
+      "C. Un flusso del valore utilizzato solo per la reportistica",
+      "D. Un flusso che gestisce le eccezioni nei processi"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un flusso del valore principale è un flusso del valore che abilita il valore per i consumatori in una forma prevista dal modello operativo dell'organizzazione."
+  },
+  {
+    "id": 185,
+    "question": "Quale dei seguenti è un passaggio nella mappatura del flusso del valore?",
+    "options": [
+      "A. Definizione della governance",
+      "B. Analisi del flusso del valore",
+      "C. Costruzione del prodotto",
+      "D. Erogazione del servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "I passaggi della mappatura del flusso del valore sono: identificazione del flusso del valore, mappatura 'as-is', analisi del flusso del valore, mappatura 'to-be', pianificazione e implementazione dei miglioramenti."
+  },
+  {
+    "id": 186,
+    "question": "Quale affermazione sulla gestione del flusso del valore è CORRETTA?",
+    "options": [
+      "A. È un esercizio una tantum",
+      "B. Implica un'attenzione costante alle modalità di svolgimento del lavoro e il miglioramento continuo dei flussi del valore",
+      "C. Si applica solo ai flussi del valore abilitanti",
+      "D. È responsabilità esclusiva del team di governance"
+    ],
+    "correct_answer": "B",
+    "explanation": "La gestione del flusso del valore implica un'attenzione costante alle modalità di svolgimento del lavoro, nonché l'analisi e il miglioramento dei flussi del valore dell'organizzazione, supportata da automazione e misurazione."
+  },
+  {
+    "id": 187,
+    "question": "La mappatura del flusso del valore si concentra su quale aspetto principale?",
+    "options": [
+      "A. Il costo delle risorse utilizzate",
+      "B. Il flusso di informazioni, lavoro e valore creato per il consumatore del servizio",
+      "C. Il numero di pratiche di gestione coinvolte",
+      "D. La conformità normativa dell'organizzazione"
+    ],
+    "correct_answer": "B",
+    "explanation": "La mappatura del flusso del valore è una tecnica per la rappresentazione visiva e l'analisi dei flussi del valore, che si concentra sul flusso di informazioni, sul lavoro e, infine, sul valore creato per un consumatore del servizio."
+  },
+  {
+    "id": 188,
+    "question": "Quale affermazione sulla mappatura del flusso del valore è CORRETTA?",
+    "options": [
+      "A. Ha un effetto sostenibile anche se eseguita come esercizio una tantum",
+      "B. È una tecnica facile da avviare che fornisce risultati tangibili a breve termine, ma non ha effetto sostenibile se eseguita una tantum",
+      "C. Può essere eseguita solo da consulenti esterni",
+      "D. Si applica esclusivamente ai servizi digitali"
+    ],
+    "correct_answer": "B",
+    "explanation": "Mappare il flusso del valore è una tecnica relativamente facile da avviare e che fornisce anche risultati tangibili a breve termine. Tuttavia, non ha un effetto sostenibile se eseguita come esercizio una tantum."
+  },
+  {
+    "id": 189,
+    "question": "Quale delle seguenti è un'attività di governance della tecnologia digitale?",
+    "options": [
+      "A. Costruire prodotti digitali",
+      "B. Valutare lo stato attuale dell'organizzazione, le sue strategie, i portafogli e le relazioni",
+      "C. Eseguire test automatizzati",
+      "D. Risolvere gli incidenti critici"
+    ],
+    "correct_answer": "B",
+    "explanation": "La governance della tecnologia digitale si realizza attraverso le attività di: Valutare (stato attuale, strategie, portafogli), Dirigere (politiche e strategie), Coinvolgimento delle parti interessate e Monitorare (prestazione e conformità)."
+  },
+  {
+    "id": 190,
+    "question": "Quale affermazione sulla governance in ITIL è CORRETTA?",
+    "options": [
+      "A. La governance è il sistema mediante il quale un'organizzazione è diretta e controllata",
+      "B. La governance riguarda esclusivamente la rendicontazione finanziaria",
+      "C. La governance è responsabilità del service desk",
+      "D. La governance si applica solo alle organizzazioni del settore pubblico"
+    ],
+    "correct_answer": "A",
+    "explanation": "La governance è il sistema mediante il quale un'organizzazione è diretta e controllata."
+  },
+  {
+    "id": 191,
+    "question": "Durante quale attività di governance l'organo di governo stabilisce e modifica politiche e strategie?",
+    "options": [
+      "A. Valutare",
+      "B. Dirigere",
+      "C. Monitorare",
+      "D. Scoprire"
+    ],
+    "correct_answer": "B",
+    "explanation": "Durante la direzione, vengono stabilite e modificate politiche e strategie."
+  },
+  {
+    "id": 192,
+    "question": "In quale passaggio del Modello del miglioramento continuo ITIL si valutano i prodotti e i servizi esistenti, inclusa la percezione del valore da parte degli utenti?",
+    "options": [
+      "A. Qual è la visione?",
+      "B. Dove siamo ora?",
+      "C. Dove vogliamo arrivare?",
+      "D. Come ci arriviamo?"
+    ],
+    "correct_answer": "B",
+    "explanation": "Nel passaggio 'Dove siamo ora?' si effettua una valutazione dei prodotti e dei servizi esistenti, inclusa la percezione del valore da parte dell'utente, le competenze e abilità delle persone, i flussi di lavoro coinvolti."
+  },
+  {
+    "id": 193,
+    "question": "Nel passaggio 'Come ci arriviamo?' del Modello del miglioramento continuo, cosa viene creato?",
+    "options": [
+      "A. La visione dell'iniziativa",
+      "B. Una valutazione dello stato attuale",
+      "C. Un piano per affrontare le sfide dell'iniziativa",
+      "D. I KPI per misurare il successo"
+    ],
+    "correct_answer": "C",
+    "explanation": "Nel passaggio 'Come ci arriviamo?' si può creare un piano per affrontare le sfide dell'iniziativa, combinando visione, stato attuale e target con competenza."
+  },
+  {
+    "id": 194,
+    "question": "Che cos'è il miglioramento continuo in ITIL?",
+    "options": [
+      "A. Un progetto una tantum per migliorare i servizi",
+      "B. Un'attività organizzativa ricorrente svolta a tutti i livelli per garantire che l'organizzazione soddisfi continuamente le aspettative delle parti interessate",
+      "C. Un audit annuale delle pratiche di gestione",
+      "D. Una pratica esclusivamente tecnica per l'ottimizzazione dei sistemi"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il miglioramento continuo è un'attività organizzativa ricorrente svolta a tutti i livelli di un'organizzazione per garantire che essa soddisfi continuamente le aspettative delle parti interessate."
+  },
+  {
+    "id": 195,
+    "question": "Quali sono gli input chiave e l'outcome del Sistema del valore ITIL (VS)?",
+    "options": [
+      "A. Input: prodotti e servizi; Outcome: profitto",
+      "B. Input: opportunità e domanda; Outcome: valore",
+      "C. Input: risorse e competenze; Outcome: efficienza",
+      "D. Input: feedback e reclami; Outcome: conformità"
+    ],
+    "correct_answer": "B",
+    "explanation": "Gli input chiave per il Sistema del valore ITIL (VS) sono opportunità e domanda. L'outcome (risultato) del Sistema del valore ITIL è il valore."
+  },
+  {
+    "id": 196,
+    "question": "Che cos'è un sistema di gestione in ITIL?",
+    "options": [
+      "A. Un software per la gestione dei servizi IT",
+      "B. Un sistema di elementi interconnessi che stabilisce politiche e obiettivi e consente il raggiungimento di tali obiettivi",
+      "C. Un database per la registrazione degli incidenti",
+      "D. Un insieme di principi guida"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un sistema di gestione è un sistema di elementi interconnessi che stabilisce politiche e obiettivi e consente il raggiungimento di tali obiettivi."
+  },
+  {
+    "id": 197,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE la relazione tra ITIL e PRINCE2?",
+    "options": [
+      "A. PRINCE2 sostituisce completamente ITIL per la gestione dei servizi",
+      "B. ITIL si concentra sulla gestione dei prodotti e servizi digitali, PRINCE2 fornisce metodi per la gestione di progetti e programmi",
+      "C. ITIL e PRINCE2 non possono essere usati insieme",
+      "D. PRINCE2 è un sottoinsieme di ITIL"
+    ],
+    "correct_answer": "B",
+    "explanation": "ITIL si concentra sulla gestione dei prodotti e dei servizi digitali lungo l'intera catena del valore. PRINCE2 fornisce metodi completi per la gestione di progetti, programmi e gestione del portafoglio."
+  },
+  {
+    "id": 198,
+    "question": "Quale affermazione sui principi condivisi tra ITIL, PRINCE2 e DevOps è CORRETTA?",
+    "options": [
+      "A. I tre framework non condividono alcun principio",
+      "B. ITIL, PRINCE2 e DevOps condividono principi complementari e insieme assicurano l'allineamento fra strategia, iniziative di cambiamento e operazioni",
+      "C. Solo ITIL e DevOps condividono principi comuni",
+      "D. I principi sono identici in tutti e tre i framework"
+    ],
+    "correct_answer": "B",
+    "explanation": "ITIL, PRINCE2 e DevOps hanno ruoli complementari e condividono principi. Insieme assicurano l'allineamento fra strategia, iniziative di cambiamento e operazioni."
+  },
+  {
+    "id": 199,
+    "question": "Quale delle seguenti è una pratica di gestione dei prodotti e dei servizi (non di gestione generale)?",
+    "options": [
+      "A. Gestione delle strategie",
+      "B. Gestione della conoscenza",
+      "C. Gestione dei livelli di servizio",
+      "D. Miglioramento continuo"
+    ],
+    "correct_answer": "C",
+    "explanation": "La gestione dei livelli di servizio è una pratica di gestione dei prodotti e dei servizi. Gestione delle strategie, gestione della conoscenza e miglioramento continuo sono pratiche per la gestione generale."
+  },
+  {
+    "id": 200,
+    "question": "La struttura delle Guide ufficiali delle pratiche ITIL include quale dei seguenti aspetti?",
+    "options": [
+      "A. Solo informazioni generali e metriche",
+      "B. Informazioni generali; flussi del valore e processi; organizzazioni e persone; informazioni e tecnologia; partner e fornitori; valutazione e sviluppo delle abilità; raccomandazioni",
+      "C. Solo ruoli e competenze",
+      "D. Esclusivamente processi e procedure"
+    ],
+    "correct_answer": "B",
+    "explanation": "La struttura delle Guide ufficiali delle pratiche ITIL copre: Informazioni generali, Flussi del valore e processi, Organizzazioni e persone, Informazioni e tecnologia, Partner e fornitori, Valutazione e sviluppo delle abilità, Raccomandazioni per il successo della pratica."
+  }
+]

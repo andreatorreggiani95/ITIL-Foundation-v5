@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "question": "A quale concetto si fa riferimento quando a un dipendente viene data l'autorizzazione per l'uso quotidiano della nuova piattaforma di condivisione file dell'azienda?",
+    "options": [
+      "A. Garanzia",
+      "B. Beni",
+      "C. Utilità",
+      "D. Accesso alle risorse"
+    ],
+    "correct_answer": "D",
+    "explanation": "Il consumatore del servizio ottiene l'accesso alle risorse del fornitore del servizio e le utilizza in base ai termini e alle condizioni concordati. In questo caso, al dipendente viene concessa l'autorizzazione a utilizzare la risorsa della piattaforma di condivisione file."
+  },
+  {
+    "id": 2,
+    "question": "Un membro del supporto IT che assiste un utente nella configurazione del proprio laptop è un esempio di quale concetto?",
+    "options": [
+      "A. Trasferimento di beni",
+      "B. Azioni del servizio",
+      "C. Sostenibilità",
+      "D. Accesso alle risorse"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le azioni del servizio sono azioni eseguite da un fornitore del servizio o congiuntamente da un fornitore e un consumatore del servizio. In questo caso, il team del fornitore ha intrapreso un'azione assistendo l'utente."
+  },
+  {
+    "id": 3,
+    "question": "Cosa influenza la percezione di un consumatore del valore di un servizio?",
+    "options": [
+      "A. La capacità del fornitore di servizi di minimizzare i propri costi operativi",
+      "B. Il numero di fornitori di servizi che offrono il servizio al consumatore",
+      "C. La misura in cui gli effetti positivi del servizio superano quelli negativi",
+      "D. L'importo investito nelle risorse dal fornitore di servizi"
+    ],
+    "correct_answer": "C",
+    "explanation": "I servizi sono percepiti dai consumatori come 'di valore' solo quando hanno più effetti positivi che negativi."
+  },
+  {
+    "id": 4,
+    "question": "Quale delle seguenti affermazioni è VERA riguardo i servizi e i risultati desiderati?",
+    "options": [
+      "A. I servizi garantiscono che tutti i risultati attesi saranno ottenuti",
+      "B. I servizi eliminano completamente i rischi associati al raggiungimento dei risultati",
+      "C. I servizi generano sempre e soltanto effetti positivi",
+      "D. I servizi possono produrre risultati non attesi e sorprendenti, sia positivi che negativi"
+    ],
+    "correct_answer": "D",
+    "explanation": "I servizi possono anche prevenire o ridurre altri risultati desiderati o introdurne di indesiderati. Possono avere esiti inattesi e sorprendenti, sia positivi che negativi."
+  },
+  {
+    "id": 5,
+    "question": "Un fornitore di servizi si impegna a utilizzare componenti riciclabili, ridurre le emissioni di carbonio, e mantenere catene per la fornitura trasparenti. Quale concetto esprime questo impegno?",
+    "options": [
+      "A. Utilità",
+      "B. Garanzia",
+      "C. User Experience (UX)",
+      "D. Sostenibilità"
+    ],
+    "correct_answer": "D",
+    "explanation": "I requisiti di sostenibilità possono includere l'approvvigionamento responsabile di materiali, pratiche di lavoro responsabili, energia pulita, bassa impronta di carbonio, materiali riciclati e riciclabili, catene di fornitura trasparenti."
+  },
+  {
+    "id": 6,
+    "question": "Quale dimensione della gestione di prodotti e servizi è direttamente influenzata dall'impegno della leadership per la sicurezza psicologica e l'apprendimento continuo?",
+    "options": [
+      "A. Partner e fornitori",
+      "B. Flussi del valore e processi",
+      "C. Informazioni e tecnologia",
+      "D. Organizzazioni e persone"
+    ],
+    "correct_answer": "D",
+    "explanation": "La dimensione 'Organizzazioni e persone' si occupa di promuovere convinzioni, percezioni e valori condivisi. Questo dovrebbe creare una cultura della sicurezza psicologica e portare a comportamenti vantaggiosi per tutte le parti interessate."
+  },
+  {
+    "id": 7,
+    "question": "Quale delle seguenti dimensioni della gestione di prodotti e servizi si occupa dei flussi di lavoro organizzativi, e fra le organizzazioni?",
+    "options": [
+      "A. Partner e fornitori",
+      "B. Informazioni e tecnologia",
+      "C. Organizzazioni e persone",
+      "D. Flussi del valore e processi"
+    ],
+    "correct_answer": "D",
+    "explanation": "La dimensione 'Flussi del valore e processi' affronta i flussi di lavoro organizzativi e interorganizzativi, concentrandosi sulle attività che l'organizzazione intraprende e su come sono organizzate per generare valore."
+  },
+  {
+    "id": 8,
+    "question": "Quale delle seguenti dimensioni della gestione di prodotti e di servizi si occupa dei dati e delle tecnologie utilizzate nei prodotti e servizi digitali?",
+    "options": [
+      "A. Partner e fornitori",
+      "B. Flussi del valore e processi",
+      "C. Organizzazioni e persone",
+      "D. Informazioni e tecnologia"
+    ],
+    "correct_answer": "D",
+    "explanation": "La dimensione 'Informazioni e tecnologia' si occupa dei dati, delle informazioni e delle tecnologie utilizzate nei prodotti e servizi digitali."
+  },
+  {
+    "id": 9,
+    "question": "Quale dimensione della gestione di prodotti e servizi si occupa delle relazioni con altre organizzazioni coinvolte nello scoprire, progettare e migliorare continuamente il prodotto?",
+    "options": [
+      "A. Flussi del valore e processi",
+      "B. Informazioni e tecnologia",
+      "C. Partner e fornitori",
+      "D. Organizzazioni e persone"
+    ],
+    "correct_answer": "C",
+    "explanation": "La dimensione 'Partner e fornitori' comprende le relazioni con altre organizzazioni coinvolte nella scoperta, progettazione, costruzione, messa in esercizio, funzionamento, erogazione, supporto e/o miglioramento continuo di prodotti e servizi."
+  },
+  {
+    "id": 10,
+    "question": "Secondo il principio guida ITIL \"Concentrarsi sul valore\", tutte le attività che un'organizzazione esegue dovrebbero collegarsi a cosa?",
+    "options": [
+      "A. Ai benefici per l'organizzazione, i suoi clienti, e le altre parti interessate",
+      "B. Unicamente all'aumento del fatturato",
+      "C. Alla soddisfazione dei dipendenti",
+      "D. Al dominio del mercato in cui opera l'organizzazione"
+    ],
+    "correct_answer": "A",
+    "explanation": "Il principio 'Concentrarsi sul valore' stabilisce che tutte le attività svolte dall'organizzazione devono ricollegarsi al valore per l'organizzazione stessa, per i suoi clienti e per le altre parti interessate."
+  },
+  {
+    "id": 11,
+    "question": "Secondo il principio guida ITIL \"Partire dallo stato attuale\", nel momento in cui si vuol migliorare un servizio, qual è il PRINCIPALE rischio insito nel cominciare da zero, cioè senza analizzare ciò che è già disponibile?",
+    "options": [
+      "A. Perdere l'opportunità per i vari gruppi di lavoro di collaborare",
+      "B. Complicare eccessivamente la soluzione, ignorando approcci semplici e pratici",
+      "C. Non raccogliere il feedback necessario per guidare il miglioramento progressivo",
+      "D. Perdere tempo, preziose capacità e risorse"
+    ],
+    "correct_answer": "D",
+    "explanation": "Ricominciare da capo può essere estremamente dispendioso, non solo in termini di tempo ma anche in termini di perdita di abilità, competenze, persone e strumenti esistenti che potrebbero avere un valore significativo."
+  },
+  {
+    "id": 12,
+    "question": "Qual è lo scopo PRINCIPALE dell'utilizzo del feedback durante le iterazioni per il miglioramento?",
+    "options": [
+      "A. Confermare che tutte le opinioni delle parti interessate siano concordi",
+      "B. Garantire che le azioni di miglioramento rimangano pertinenti ed efficaci in circostanze che cambiano",
+      "C. Evitare la necessità di ulteriori aggiustamenti, una volta iniziato il lavoro",
+      "D. Evitare cambiamenti nelle priorità di progetto durante l'implementazione"
+    ],
+    "correct_answer": "B",
+    "explanation": "Cercare e utilizzare il feedback prima, durante e dopo ogni iterazione garantirà che le azioni siano mirate e appropriate, anche in circostanze mutevoli."
+  },
+  {
+    "id": 13,
+    "question": "Un team di progettazione sta creando un nuovo flusso di lavoro considerando tutte le possibili eccezioni. Qual è il rischio che si corre progettando il flusso di lavoro in questo modo?",
+    "options": [
+      "A. Ottenere un controllo del rischio più forte",
+      "B. Dare vita a una complessità non necessaria",
+      "C. Consegnare risultati più rapidamente e in modo coerente",
+      "D. Garantire che i dipendenti seguano sempre i processi senza esitazione"
+    ],
+    "correct_answer": "B",
+    "explanation": "Per evitare la 'build trap', dove vengono create sempre più funzionalità che complicano eccessivamente i prodotti, le organizzazioni dovrebbero rimanere focalizzate sul valore e mantenere semplici e pratici i loro prodotti e servizi."
+  },
+  {
+    "id": 14,
+    "question": "Perché le organizzazioni dovrebbero considerare l'interazione fra i vari principi guida ITIL?",
+    "options": [
+      "A. Perché i principi sono interdipendenti e si completano a vicenda",
+      "B. Perché un principio è sempre superiore agli altri",
+      "C. Perché i principi devono essere applicati in un ordine rigoroso",
+      "D. Perché un principio è di solito sufficiente per qualsiasi situazione"
+    ],
+    "correct_answer": "A",
+    "explanation": "I principi guida ITIL sono interdipendenti e si completano a vicenda. La loro efficacia dipende dall'interazione e dall'applicazione combinata in base al contesto."
+  },
+  {
+    "id": 15,
+    "question": "Qual è il ruolo dell'organo di governo in una organizzazione?",
+    "options": [
+      "A. È responsabile, al livello più alto, delle prestazioni e della conformità",
+      "B. È responsabile delle operazioni quotidiane",
+      "C. Gestisce direttamente i dettagli tecnici dei prodotti digitali",
+      "D. Si concentra unicamente sulla rendicontazione finanziaria"
+    ],
+    "correct_answer": "A",
+    "explanation": "L'organo di governo è responsabile, al livello più alto, delle prestazioni e della conformità dell'organizzazione."
+  },
+  {
+    "id": 16,
+    "question": "Quale delle seguenti NON è una metrica per misurare il successo dell'attività \"Scoprire\"?",
+    "options": [
+      "A. Adattamento strategico dell'offerta di prodotti e servizi dell'organizzazione",
+      "B. Rilevanza sul mercato dell'offerta di prodotti e servizi",
+      "C. Prestazioni del servizio rispetto ai target nello SLA concordato",
+      "D. Soddisfazione delle parti interessate per i prodotti e per le offerte di servizio"
+    ],
+    "correct_answer": "C",
+    "explanation": "Le prestazioni del servizio rispetto ai target SLA sono una metrica dell'attività 'Erogare', non di 'Scoprire'. Le metriche di 'Scoprire' includono adattamento strategico, rilevanza di mercato e soddisfazione delle parti interessate."
+  },
+  {
+    "id": 17,
+    "question": "Cos'è un servizio digitale?",
+    "options": [
+      "A. Un servizio che si basa interamente o in gran parte su prodotti digitali",
+      "B. Una combinazione di risorse tecnologiche progettate per i consumatori",
+      "C. Il trasferimento di beni dal fornitore di servizi al consumatore",
+      "D. Un catalogo di servizi per i consumatori"
+    ],
+    "correct_answer": "A",
+    "explanation": "Un servizio digitale è un servizio che si basa interamente o in gran parte su prodotti digitali per la sua erogazione e il suo funzionamento."
+  },
+  {
+    "id": 18,
+    "question": "Quale termine descrive \"ciò che un'organizzazione fa per i suoi consumatori e per altre parti interessate, e perché\"?",
+    "options": [
+      "A. Flusso del valore",
+      "B. La catena del valore",
+      "C. Il modello operativo",
+      "D. Lo scopo dell'organizzazione"
+    ],
+    "correct_answer": "D",
+    "explanation": "Lo scopo dell'organizzazione definisce ciò che un'organizzazione fa per i suoi consumatori e per altre parti interessate, e perché lo fa."
+  },
+  {
+    "id": 19,
+    "question": "Quale affermazione illustra NEL MODO MIGLIORE il rapporto tra lo scopo di un'organizzazione e il suo modello operativo?",
+    "options": [
+      "A. Il modello operativo definisce la strategia finanziaria dell'organizzazione per raggiungere il suo scopo",
+      "B. Lo scopo dell'organizzazione determina perché essa esiste, il modello operativo mostra come poter raggiungere tale scopo",
+      "C. Il modello operativo sostituisce lo scopo dell'organizzazione, una volta definita la catena del valore",
+      "D. Lo scopo e il modello operativo non sono correlati, perché uno si concentra sui clienti e l'altro sui processi interni"
+    ],
+    "correct_answer": "B",
+    "explanation": "Lo scopo dell'organizzazione ne definisce l'intento (perché esiste), mentre il modello operativo mostra come l'organizzazione co-crea valore per raggiungere tale scopo."
+  },
+  {
+    "id": 20,
+    "question": "Quale delle seguenti frasi descrive una \"pratica di gestione\"?",
+    "options": [
+      "A. Una serie di passaggi che un'organizzazione utilizza per creare e consegnare prodotti e servizi",
+      "B. Un insieme di risorse e competenze organizzative progettate per svolgere un lavoro o per raggiungere un obiettivo",
+      "C. Una rappresentazione visiva di come un'organizzazione co-crea valore con le parti interessate",
+      "D. Un insieme di attività interconnesse che un'organizzazione esegue per creare e gestire prodotti"
+    ],
+    "correct_answer": "B",
+    "explanation": "Una pratica di gestione è un insieme di risorse e competenze organizzative progettate per svolgere un lavoro o per raggiungere un obiettivo specifico."
+  },
+  {
+    "id": 21,
+    "question": "Quale sezione di una Guida ufficiale delle pratiche ITIL descrive i ruoli, le competenze, e responsabilità necessarie per una specifica pratica?",
+    "options": [
+      "A. Valutazione e sviluppo delle abilità",
+      "B. Informazioni generali",
+      "C. Organizzazioni e persone",
+      "D. Partner e fornitori"
+    ],
+    "correct_answer": "C",
+    "explanation": "La sezione 'Organizzazioni e persone' di una Guida ufficiale delle pratiche ITIL descrive i ruoli, le competenze e le responsabilità necessarie per una specifica pratica."
+  },
+  {
+    "id": 22,
+    "question": "Un'azienda predispone un'iniziativa di miglioramento e si assicura che sia chiaramente collegata agli obiettivi e ai propositi organizzativi. Qual è il passo del Modello del miglioramento continuo che viene eseguito?",
+    "options": [
+      "A. Qual è la visione?",
+      "B. Dove siamo ora?",
+      "C. Agire",
+      "D. Dove vogliamo arrivare?"
+    ],
+    "correct_answer": "A",
+    "explanation": "Il passo 'Qual è la visione?' del Modello del miglioramento continuo si assicura che l'iniziativa di miglioramento sia chiaramente collegata agli obiettivi e ai propositi organizzativi."
+  },
+  {
+    "id": 23,
+    "question": "Quale dei seguenti NON è uno dei passaggi nella mappatura di un flusso del valore?",
+    "options": [
+      "A. Identificazione del flusso del valore",
+      "B. Mappatura del flusso del valore \"as-is\"",
+      "C. Mappatura di un flusso del valore \"to be\"",
+      "D. Gestione del flusso del valore"
+    ],
+    "correct_answer": "D",
+    "explanation": "La gestione del flusso del valore non è un passaggio nella mappatura. I passaggi sono: identificazione, mappatura 'as-is', analisi, mappatura 'to-be', e pianificazione/implementazione dei miglioramenti."
+  },
+  {
+    "id": 24,
+    "question": "Che cos'è un prodotto digitale?",
+    "options": [
+      "A. Una descrizione formale di uno o più servizi progettati per soddisfare le esigenze dei consumatori",
+      "B. L'accesso alle risorse del fornitore di servizi e il loro utilizzo secondo i termini e le condizioni concordati",
+      "C. Una combinazione di risorse di un'organizzazione basate sulla tecnologia digitale e progettate per offrire valore ai consumatori",
+      "D. Azioni eseguite da un fornitore del servizio, o eseguite congiuntamente da un fornitore del servizio e da un consumatore del servizio"
+    ],
+    "correct_answer": "C",
+    "explanation": "Un prodotto digitale è una combinazione di risorse di un'organizzazione basate sulla tecnologia digitale e progettate per offrire valore ai consumatori."
+  },
+  {
+    "id": 25,
+    "question": "Quale dei seguenti è una metrica chiave per valutare il successo dell'attività \"Acquisire\"?",
+    "options": [
+      "A. Il numero e l'impatto degli incidenti e delle deviazioni delle prestazioni",
+      "B. Qualità delle risorse e dei servizi esternalizzati",
+      "C. Prestazioni del servizio rispetto ai target nello SLA concordato",
+      "D. L'impatto negativo delle modifiche sulla disponibilità e sulle prestazioni del servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "La qualità delle risorse e dei servizi esternalizzati è una metrica chiave dell'attività 'Acquisire'."
+  },
+  {
+    "id": 26,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE la relazione tra i servizi digitali e i prodotti digitali?",
+    "options": [
+      "A. I prodotti digitali si basano sempre su servizi digitali",
+      "B. I servizi digitali si basano sempre su prodotti digitali",
+      "C. I servizi digitali e i prodotti digitali esistono in modo indipendente",
+      "D. I prodotti digitali sono azioni del servizio eseguite dai fornitori"
+    ],
+    "correct_answer": "B",
+    "explanation": "I servizi digitali si basano sempre su prodotti digitali per la loro erogazione e funzionamento."
+  },
+  {
+    "id": 27,
+    "question": "Quale ruolo si assume la responsabilità degli outcome (risultati) derivanti dal consumo del servizio?",
+    "options": [
+      "A. Organizzazione",
+      "B. Sponsor",
+      "C. Cliente",
+      "D. Fornitore del servizio"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il cliente è il ruolo che definisce i requisiti per i servizi e si assume la responsabilità degli outcome derivanti dal consumo del servizio."
+  },
+  {
+    "id": 28,
+    "question": "Quale tipo di relazione di servizio si concentra, tipicamente, sul supporto e sull'efficienza tramite il ricorso a servizi standardizzati?",
+    "options": [
+      "A. Relazione di base",
+      "B. Relazione di cooperazione",
+      "C. Relazione collaborativa",
+      "D. Relazione con i partner"
+    ],
+    "correct_answer": "A",
+    "explanation": "La relazione di base si concentra tipicamente sul supporto e sull'efficienza, utilizzando servizi standardizzati per il mercato di massa."
+  },
+  {
+    "id": 29,
+    "question": "Quale affermazione sulla \"banda di visibilità\" è CORRETTA?",
+    "options": [
+      "A. Include solamente le attività visibili al fornitore del servizio",
+      "B. Si applica esclusivamente a modelli di servizi digitali moderni, basati sulla tecnologia",
+      "C. Rappresenta tutti gli aspetti visibili sia al fornitore che al consumatore del servizio",
+      "D. Definisce il tracciato completo del percorso del servizio del cliente"
+    ],
+    "correct_answer": "C",
+    "explanation": "La banda di visibilità rappresenta tutti gli aspetti visibili sia al fornitore che al consumatore del servizio, distinguendoli da quelli che avvengono dietro le quinte."
+  },
+  {
+    "id": 30,
+    "question": "Qual è lo scopo PRINCIPALE dell'attività \"Scoprire\"?",
+    "options": [
+      "A. Sviluppare e testare i prodotti digitali",
+      "B. Assicurare e allocare le risorse in modo efficiente",
+      "C. Allineare le capacità dei prodotti con le esigenze dei consumatori e la strategia del fornitore del servizio",
+      "D. Mantenere e monitorare i prodotti digitali"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lo scopo principale dell'attività 'Scoprire' è allineare le capacità dei prodotti con le esigenze dei consumatori e la strategia del fornitore del servizio."
+  },
+  {
+    "id": 31,
+    "question": "Quale attività di gestione del ciclo di vita è focalizzata sulla creazione di prototipi e specifiche?",
+    "options": [
+      "A. Progettare",
+      "B. Erogare",
+      "C. Supportare",
+      "D. Mettere in esercizio"
+    ],
+    "correct_answer": "A",
+    "explanation": "L'attività 'Progettare' è focalizzata sulla creazione di specifiche e prototipi di prodotti e servizi."
+  },
+  {
+    "id": 32,
+    "question": "Qual è lo scopo PRINCIPALE dell'attività \"Acquisire\"?",
+    "options": [
+      "A. Risolvere gli incidenti e soddisfare le procedure di ripristino nel caso di disastro",
+      "B. Garantire e allocare in modo efficiente le risorse necessarie",
+      "C. Fornire servizi e gestire l'onboarding/offboarding degli utenti",
+      "D. Creare dei prototipi funzionali per l'esecuzione dei test"
+    ],
+    "correct_answer": "B",
+    "explanation": "Lo scopo principale dell'attività 'Acquisire' è garantire e allocare in modo efficiente le risorse necessarie."
+  },
+  {
+    "id": 33,
+    "question": "Quale attività del ciclo di vita dei prodotti e dei servizi ITIL si concentra sulla minimizzazione dell'impatto degli incidenti e dei disastri, quando si verificano?",
+    "options": [
+      "A. Mettere in esercizio",
+      "B. Far funzionare",
+      "C. Supportare",
+      "D. Progettare"
+    ],
+    "correct_answer": "C",
+    "explanation": "L'attività 'Supportare' si concentra sulla minimizzazione dell'impatto degli incidenti e dei disastri quando si verificano, inclusa la velocità di ripristino del normale servizio."
+  },
+  {
+    "id": 34,
+    "question": "Cosa descrive PRINCIPALMENTE una specifica di prodotto?",
+    "options": [
+      "A. Aspetti critici, requisiti e caratteristiche del prodotto",
+      "B. Ciò che viene creato inizialmente per testare la progettazione di un prodotto",
+      "C. La capacità di un sistema di rimanere operativo",
+      "D. Il processo di integrazione del codice con altre parti di codice in un repository centralizzato"
+    ],
+    "correct_answer": "A",
+    "explanation": "Una specifica di prodotto descrive principalmente gli aspetti critici, i requisiti e le caratteristiche del prodotto."
+  },
+  {
+    "id": 35,
+    "question": "Che cos'è un incidente nei servizi IT?",
+    "options": [
+      "A. Un cambiamento di stato significativo per la gestione di un servizio",
+      "B. Un'interruzione non pianificata di un servizio o una riduzione nella qualità del servizio",
+      "C. La causa di una o più interruzioni",
+      "D. Un difetto o vulnerabilità presente in un servizio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un incidente è un'interruzione non pianificata di un servizio o una riduzione nella qualità del servizio."
+  },
+  {
+    "id": 36,
+    "question": "Come collabora ITIL con le pratiche DevOps per supportare la gestione di prodotti e di servizi digitali?",
+    "options": [
+      "A. Fornendo il framework, mentre DevOps fornisce pratiche e tecniche",
+      "B. Sostituendo le pratiche DevOps con processi di gestione del servizio standardizzati",
+      "C. Limitando l'utilizzo di DevOps alle attività di sviluppo software",
+      "D. Posizionando DevOps come framework di governance su ITIL"
+    ],
+    "correct_answer": "A",
+    "explanation": "ITIL collabora con DevOps fornendo il framework di gestione dei servizi, mentre DevOps fornisce pratiche e tecniche complementari."
+  },
+  {
+    "id": 37,
+    "question": "Come si intende che le organizzazioni utilizzino l'ITIL AI Capability Model?",
+    "options": [
+      "A. Per confrontare gli strumenti di IA con standard di settore predefiniti",
+      "B. Per valutare la prontezza e identificare le aree di miglioramento nell'uso dell'IA",
+      "C. Per automatizzare le decisioni di governance nell'intero Sistema del valore ITIL",
+      "D. Per dare priorità agli investimenti nell'IA in base al ritorno finanziario"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'ITIL AI Capability Model è progettato per valutare la prontezza dell'organizzazione nell'uso dell'IA e identificare le aree di miglioramento."
+  },
+  {
+    "id": 38,
+    "question": "Quale frase descrive NEL MODO MIGLIORE un accordo sul livello di servizio (SLA)?",
+    "options": [
+      "A. Un contratto legale tra due fornitori che regola le penali economiche",
+      "B. Un accordo documentato tra un fornitore del servizio e un cliente che specifica i servizi e i relativi livelli concordati",
+      "C. Una discussione informale sulle aspettative, tra utenti e fornitori del servizio",
+      "D. Una raccolta di linee guida per i team IT interni senza coinvolgimento del cliente"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un SLA è un accordo documentato tra un fornitore del servizio e un cliente che specifica i servizi e i relativi livelli concordati."
+  },
+  {
+    "id": 39,
+    "question": "Quale concetto ITIL include governance, pratiche, e miglioramento continuo?",
+    "options": [
+      "A. Il Sistema del valore ITIL (VS)",
+      "B. Le attività \"Erogare\" e \"Supportare\" della catena del valore",
+      "C. Il principio guida ITIL \"Concentrarsi sul valore\"",
+      "D. La dimensione \"Flussi del valore e processi\""
+    ],
+    "correct_answer": "A",
+    "explanation": "Il Sistema del valore ITIL (VS) include governance, pratiche e miglioramento continuo come componenti chiave per la creazione del valore."
+  },
+  {
+    "id": 40,
+    "question": "Qual è lo scopo PRINCIPALE della mappatura del flusso del valore in un'organizzazione?",
+    "options": [
+      "A. Automatizzare il monitoraggio del servizio",
+      "B. Individuare e assegnare una priorità alle opportunità di miglioramento",
+      "C. Migliorare e supportare le pratiche di gestione",
+      "D. Controllare direttamente le parti interessate esterne"
+    ],
+    "correct_answer": "B",
+    "explanation": "Lo scopo principale della mappatura del flusso del valore è individuare e assegnare una priorità alle opportunità di miglioramento nei flussi dell'organizzazione."
+  },
+  {
+    "id": 41,
+    "question": "In che modo il principio guida \"Collaborare e promuovere la visibilità\" supporta la creazione di valore?",
+    "options": [
+      "A. Incoraggiando la cooperazione tra le parti interessate per creare valore condiviso",
+      "B. Limitando la comunicazione ai soli team operativi",
+      "C. Automatizzando i processi senza alcun coinvolgimento delle parti interessate",
+      "D. Concentrandosi esclusivamente sulla documentazione formale"
+    ],
+    "correct_answer": "A",
+    "explanation": "Il principio 'Collaborare e promuovere la visibilità' afferma che la cooperazione e la collaborazione sono migliori del lavoro isolato, incoraggiando le parti interessate a creare valore condiviso."
+  },
+  {
+    "id": 42,
+    "question": "Un'organizzazione vuole automatizzare un processo manuale inefficiente. Quale principio guida ITIL suggerisce di ottimizzare il processo PRIMA di automatizzarlo?",
+    "options": [
+      "A. Concentrarsi sul valore",
+      "B. Ottimizzare e automatizzare",
+      "C. Partire dallo stato attuale",
+      "D. Collaborare e promuovere la visibilità"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il principio 'Ottimizzare e automatizzare' afferma che prima che un'attività possa essere efficacemente automatizzata deve essere ottimizzata. L'automazione fine a sé stessa può aumentare i costi e ridurre la resilienza."
+  },
+  {
+    "id": 43,
+    "question": "Quale dei seguenti è un elemento chiave del Sistema del valore ITIL (VS)?",
+    "options": [
+      "A. Principi guida",
+      "B. Analisi SWOT",
+      "C. Matrice di rischio",
+      "D. Piano di comunicazione"
+    ],
+    "correct_answer": "A",
+    "explanation": "I principi guida sono un elemento chiave del Sistema del valore ITIL (VS), insieme a governance, catena del valore, pratiche e miglioramento continuo."
+  },
+  {
+    "id": 44,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE il concetto di \"flusso del valore\"?",
+    "options": [
+      "A. Un singolo processo lineare per gestire gli incidenti",
+      "B. Un elenco di tutte le pratiche di gestione di un'organizzazione",
+      "C. Una serie di passaggi intrapresi da un'organizzazione per creare ed erogare prodotti e servizi ai consumatori",
+      "D. Un modello di governance per i prodotti digitali"
+    ],
+    "correct_answer": "C",
+    "explanation": "Un flusso del valore è una serie di passaggi intrapresi da un'organizzazione per creare ed erogare prodotti e servizi a un consumatore di servizi."
+  },
+  {
+    "id": 45,
+    "question": "Un'organizzazione sta esaminando il proprio flusso del valore e nota che alcune attività non aggiungono valore al consumatore. Quale principio guida dovrebbe essere applicato per affrontare questa situazione?",
+    "options": [
+      "A. Mantenere semplicità e praticità",
+      "B. Partire dallo stato attuale",
+      "C. Procedere in modo iterativo con feedback",
+      "D. Pensare e lavorare in modo olistico"
+    ],
+    "correct_answer": "A",
+    "explanation": "Il principio 'Mantenere semplicità e praticità' afferma che se un processo, prodotto, servizio, azione o metrica non riescono ad aggiungere valore o produrre un risultato utile devono essere eliminati."
+  },
+  {
+    "id": 46,
+    "question": "Quale delle seguenti è una caratteristica della dimensione \"Informazioni e tecnologia\"?",
+    "options": [
+      "A. Si concentra sulle relazioni con i fornitori esterni",
+      "B. Si occupa dei flussi di lavoro organizzativi",
+      "C. Include le competenze e i ruoli del personale",
+      "D. Comprende i dati, le informazioni e le tecnologie utilizzate nei prodotti e servizi digitali"
+    ],
+    "correct_answer": "D",
+    "explanation": "La dimensione 'Informazioni e tecnologia' si occupa dei dati, delle informazioni e delle tecnologie utilizzate nei prodotti e servizi digitali, nonché di quelle impiegate come parte dei sistemi di gestione."
+  },
+  {
+    "id": 47,
+    "question": "Quale delle seguenti attività appartiene alla governance della tecnologia digitale?",
+    "options": [
+      "A. Costruire e testare prodotti digitali",
+      "B. Gestire gli incidenti quotidiani",
+      "C. Fornire supporto agli utenti finali",
+      "D. Valutare lo stato attuale dell'organizzazione, le sue strategie e i portafogli"
+    ],
+    "correct_answer": "D",
+    "explanation": "La governance della tecnologia digitale include le attività di Valutare (stato attuale, strategie, portafogli), Dirigere (politiche e strategie), Coinvolgimento delle parti interessate e Monitorare."
+  },
+  {
+    "id": 48,
+    "question": "Quale delle seguenti affermazioni sul miglioramento continuo è CORRETTA?",
+    "options": [
+      "A. È un'attività organizzativa ricorrente svolta a tutti i livelli per garantire che l'organizzazione soddisfi le aspettative delle parti interessate",
+      "B. È un progetto una tantum per migliorare i servizi",
+      "C. Si applica esclusivamente ai prodotti digitali",
+      "D. È responsabilità esclusiva del team di governance"
+    ],
+    "correct_answer": "A",
+    "explanation": "Il miglioramento continuo è un'attività organizzativa ricorrente svolta a tutti i livelli di un'organizzazione per garantire che essa soddisfi continuamente le aspettative delle parti interessate."
+  },
+  {
+    "id": 49,
+    "question": "Quale passo del Modello del miglioramento continuo si concentra sulla valutazione dello stato attuale, inclusa la percezione del valore da parte degli utenti?",
+    "options": [
+      "A. Dove siamo ora?",
+      "B. Qual è la visione?",
+      "C. Dove vogliamo arrivare?",
+      "D. Come ci arriviamo?"
+    ],
+    "correct_answer": "A",
+    "explanation": "Il passo 'Dove siamo ora?' effettua una valutazione dei prodotti e servizi esistenti, inclusa la percezione del valore da parte dell'utente, le competenze e abilità delle persone, i flussi di lavoro coinvolti."
+  },
+  {
+    "id": 50,
+    "question": "Quale delle seguenti è una componente di un'offerta di servizio?",
+    "options": [
+      "A. Il budget annuale dell'organizzazione",
+      "B. Il piano strategico quinquennale",
+      "C. Le azioni del servizio",
+      "D. La struttura organizzativa del fornitore"
+    ],
+    "correct_answer": "C",
+    "explanation": "Un'offerta di servizio può includere beni, accesso alle risorse e azioni del servizio come componenti."
+  },
+  {
+    "id": 51,
+    "question": "Quale affermazione sulla catena del valore è CORRETTA?",
+    "options": [
+      "A. La catena del valore è un intero insieme di attività che crea valore attraverso la fornitura di un prodotto o di un servizio",
+      "B. La catena del valore è un singolo processo sequenziale",
+      "C. La catena del valore si applica solo ai servizi digitali",
+      "D. La catena del valore è identica al flusso del valore"
+    ],
+    "correct_answer": "A",
+    "explanation": "La catena del valore è un intero insieme di attività che crea valore attraverso la fornitura di un prodotto o di un servizio."
+  },
+  {
+    "id": 52,
+    "question": "Quale attività del ciclo di vita produce come output principale \"soluzioni di prodotto costruite e testate\"?",
+    "options": [
+      "A. Progettare",
+      "B. Costruire",
+      "C. Mettere in esercizio",
+      "D. Far funzionare"
+    ],
+    "correct_answer": "B",
+    "explanation": "L'output dell'attività 'Costruire' sono soluzioni di prodotto costruite e testate."
+  },
+  {
+    "id": 53,
+    "question": "Quale attività del ciclo di vita ha lo scopo di introdurre prodotti nuovi o aggiornati negli ambienti operativi?",
+    "options": [
+      "A. Costruire",
+      "B. Far funzionare",
+      "C. Erogare",
+      "D. Mettere in esercizio"
+    ],
+    "correct_answer": "D",
+    "explanation": "Lo scopo dell'attività 'Mettere in esercizio' è introdurre prodotti nuovi o aggiornati negli ambienti operativi e garantire un efficace onboarding/offboarding dei fornitori."
+  },
+  {
+    "id": 54,
+    "question": "Quale attività del ciclo di vita si concentra sul mantenimento e monitoraggio dei prodotti digitali in ambiente operativo?",
+    "options": [
+      "A. Mettere in esercizio",
+      "B. Supportare",
+      "C. Erogare",
+      "D. Far funzionare"
+    ],
+    "correct_answer": "D",
+    "explanation": "L'attività 'Far funzionare' comprende attività per lo più invisibili ai clienti, concentrate sul mantenimento e monitoraggio dei prodotti digitali in ambiente operativo."
+  },
+  {
+    "id": 55,
+    "question": "Quale delle seguenti è una metrica chiave dell'attività \"Erogare\"?",
+    "options": [
+      "A. Qualità delle specifiche e dei prototipi del prodotto",
+      "B. Soddisfazione di clienti e utenti per la qualità del servizio",
+      "C. Ciclo di costruzione e test",
+      "D. Copertura ed efficacia del monitoraggio"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le metriche chiave dell'attività 'Erogare' includono la soddisfazione di clienti e utenti per la qualità del servizio e le prestazioni del servizio rispetto ai target SLA concordati."
+  },
+  {
+    "id": 56,
+    "question": "Quale termine ITIL descrive \"la funzionalità offerta da un prodotto o servizio per soddisfare una particolare esigenza\"?",
+    "options": [
+      "A. Utilità",
+      "B. Garanzia",
+      "C. Sostenibilità",
+      "D. User Experience (UX)"
+    ],
+    "correct_answer": "A",
+    "explanation": "L'utilità è la funzionalità offerta da un prodotto o servizio per soddisfare una particolare esigenza. Può essere sintetizzata con 'quello che il servizio fa' e determina se un servizio sia 'adatto allo scopo'."
+  },
+  {
+    "id": 57,
+    "question": "Quale delle seguenti affermazioni sulla relazione tra prodotti e servizi digitali è CORRETTA?",
+    "options": [
+      "A. Un prodotto può abilitare un solo servizio",
+      "B. I servizi non hanno alcuna relazione con i prodotti",
+      "C. Un servizio può esistere senza alcun prodotto digitale",
+      "D. Un prodotto può abilitare molti servizi, e un servizio può essere basato su diversi prodotti"
+    ],
+    "correct_answer": "D",
+    "explanation": "Un prodotto può abilitare molti servizi, e un servizio può essere basato su diversi prodotti."
+  },
+  {
+    "id": 58,
+    "question": "Quale passo del Modello del miglioramento continuo si concentra sulla creazione di un piano per affrontare le sfide dell'iniziativa?",
+    "options": [
+      "A. Qual è la visione?",
+      "B. Dove siamo ora?",
+      "C. Come ci arriviamo?",
+      "D. Agire"
+    ],
+    "correct_answer": "C",
+    "explanation": "Nel passo 'Come ci arriviamo?' si può creare un piano per affrontare le sfide dell'iniziativa, combinando visione, stato attuale e target con competenza."
+  },
+  {
+    "id": 59,
+    "question": "Quale delle seguenti NON è una delle quattro dimensioni della gestione dei prodotti e dei servizi?",
+    "options": [
+      "A. Organizzazioni e persone",
+      "B. Miglioramento continuo",
+      "C. Informazioni e tecnologia",
+      "D. Partner e fornitori"
+    ],
+    "correct_answer": "B",
+    "explanation": "Le quattro dimensioni sono: Organizzazioni e persone, Informazioni e tecnologia, Partner e fornitori, Flussi del valore e processi. Il miglioramento continuo non è una dimensione ma un componente del Sistema del valore ITIL."
+  },
+  {
+    "id": 60,
+    "question": "Quale delle seguenti descrive correttamente il ruolo dello sponsor nel consumo del servizio?",
+    "options": [
+      "A. Lo sponsor autorizza il budget per il consumo del servizio",
+      "B. Lo sponsor utilizza direttamente i servizi",
+      "C. Lo sponsor definisce i requisiti tecnici del servizio",
+      "D. Lo sponsor gestisce le operazioni quotidiane del servizio"
+    ],
+    "correct_answer": "A",
+    "explanation": "Lo sponsor è il ruolo che autorizza il budget per il consumo del servizio."
+  },
+  {
+    "id": 61,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE il concetto di \"garanzia\" in ITIL?",
+    "options": [
+      "A. L'assicurazione che un prodotto o servizio soddisferà i requisiti concordati",
+      "B. La funzionalità offerta da un prodotto o servizio",
+      "C. La somma delle interazioni funzionali ed emotive con un servizio",
+      "D. La gestione responsabile dell'ambiente e del progresso sociale"
+    ],
+    "correct_answer": "A",
+    "explanation": "La garanzia è l'assicurazione che un prodotto o servizio soddisferà i requisiti concordati. Riguarda tipicamente disponibilità, capacità, livelli di sicurezza e continuità del servizio."
+  },
+  {
+    "id": 62,
+    "question": "Quale principio guida afferma che nessun prodotto, servizio, pratica, processo, team o fornitore agisce da solo?",
+    "options": [
+      "A. Collaborare e promuovere la visibilità",
+      "B. Concentrarsi sul valore",
+      "C. Mantenere semplicità e praticità",
+      "D. Pensare e lavorare in modo olistico"
+    ],
+    "correct_answer": "D",
+    "explanation": "Il principio 'Pensare e lavorare in modo olistico' sottolinea che nessun prodotto, servizio, pratica, processo, team o fornitore agisce da solo."
+  },
+  {
+    "id": 63,
+    "question": "Quale delle seguenti è una pratica di gestione generale ITIL?",
+    "options": [
+      "A. Gestione degli incidenti",
+      "B. Gestione dei livelli di servizio",
+      "C. Miglioramento continuo",
+      "D. Gestione dei problemi"
+    ],
+    "correct_answer": "C",
+    "explanation": "Il miglioramento continuo è una pratica di gestione generale ITIL. La gestione degli incidenti, dei livelli di servizio e dei problemi sono pratiche di gestione dei prodotti e dei servizi."
+  },
+  {
+    "id": 64,
+    "question": "Quale tipo di relazione di servizio ha come focus tipico \"innovazione e crescita\"?",
+    "options": [
+      "A. Relazione di base",
+      "B. Relazione di cooperazione",
+      "C. Relazione collaborativa",
+      "D. Relazione standardizzata"
+    ],
+    "correct_answer": "C",
+    "explanation": "La relazione collaborativa ha come focus tipico 'innovazione e crescita', coinvolge livelli operativo, tattico e strategico, e utilizza servizi personalizzati o su misura."
+  },
+  {
+    "id": 65,
+    "question": "Quale delle seguenti è una metrica chiave di successo dell'attività \"Supportare\"?",
+    "options": [
+      "A. Adeguatezza strategica dell'offerta di prodotti",
+      "B. Qualità delle specifiche e dei prototipi",
+      "C. Velocità di ripristino del normale servizio",
+      "D. Ciclo di transizione"
+    ],
+    "correct_answer": "C",
+    "explanation": "Le metriche chiave dell'attività 'Supportare' includono la velocità di ripristino del normale servizio, la soddisfazione di clienti e utenti per il supporto, e l'impatto negativo di incidenti e disastri."
+  },
+  {
+    "id": 66,
+    "question": "In ITIL, quale definizione descrive correttamente un \"problema\"?",
+    "options": [
+      "A. Un'interruzione non pianificata di un servizio",
+      "B. La causa, o la causa potenziale, di uno o più incidenti",
+      "C. Un difetto o vulnerabilità in un prodotto",
+      "D. Una richiesta presentata da un utente"
+    ],
+    "correct_answer": "B",
+    "explanation": "Un problema è la causa, o la causa potenziale, di uno o più incidenti."
+  },
+  {
+    "id": 67,
+    "question": "Quale delle seguenti affermazioni sulla Legge di Conway è CORRETTA?",
+    "options": [
+      "A. Le organizzazioni che progettano sistemi sono vincolate a produrre progetti che sono copie delle strutture di comunicazione di queste organizzazioni",
+      "B. I costi dei servizi IT tendono a raddoppiare ogni anno",
+      "C. L'automazione riduce sempre i costi operativi",
+      "D. I servizi digitali sono sempre più affidabili dei servizi fisici"
+    ],
+    "correct_answer": "A",
+    "explanation": "La Legge di Conway afferma che le organizzazioni che progettano sistemi sono vincolate a produrre progetti che sono copie delle strutture di comunicazione di queste organizzazioni."
+  },
+  {
+    "id": 68,
+    "question": "Quale delle seguenti attività di governance della tecnologia digitale si occupa di stabilire e modificare politiche e strategie?",
+    "options": [
+      "A. Valutare",
+      "B. Monitorare",
+      "C. Dirigere",
+      "D. Scoprire"
+    ],
+    "correct_answer": "C",
+    "explanation": "Durante l'attività 'Dirigere' della governance, vengono stabilite e modificate politiche e strategie."
+  },
+  {
+    "id": 69,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE la differenza tra un flusso del valore principale e un flusso del valore abilitante?",
+    "options": [
+      "A. Non esiste differenza tra i due",
+      "B. Il flusso principale è per i consumatori esterni, quello abilitante per quelli interni",
+      "C. Il flusso principale supporta le operazioni interne",
+      "D. Il flusso principale abilita il valore per i consumatori in una forma prevista dal modello operativo, quello abilitante supporta i flussi principali"
+    ],
+    "correct_answer": "D",
+    "explanation": "Un flusso del valore principale abilita il valore per i consumatori in una forma prevista dal modello operativo dell'organizzazione. I flussi abilitanti supportano i flussi principali."
+  },
+  {
+    "id": 70,
+    "question": "Quale affermazione sulla mappatura del flusso del valore è CORRETTA?",
+    "options": [
+      "A. Ha un effetto sostenibile anche se eseguita come esercizio una tantum",
+      "B. Può essere eseguita solo da consulenti esterni",
+      "C. Si applica esclusivamente ai servizi digitali",
+      "D. Non ha effetto sostenibile se eseguita una tantum; richiede attenzione continua"
+    ],
+    "correct_answer": "D",
+    "explanation": "Mappare il flusso del valore è una tecnica relativamente facile da avviare che fornisce risultati tangibili a breve termine. Tuttavia, non ha un effetto sostenibile se eseguita come esercizio una tantum."
+  },
+  {
+    "id": 71,
+    "question": "In quale passo del Modello del miglioramento continuo si definiscono i target e i KPI misurabili?",
+    "options": [
+      "A. Qual è la visione?",
+      "B. Dove vogliamo arrivare?",
+      "C. Agire",
+      "D. Come ci arriviamo?"
+    ],
+    "correct_answer": "B",
+    "explanation": "Nel passo 'Dove vogliamo arrivare?' si definiscono target e KPI misurabili che rappresentano lo stato futuro desiderato."
+  },
+  {
+    "id": 72,
+    "question": "Quale dei seguenti è un esempio di \"cambiamento\" nella terminologia ITIL?",
+    "options": [
+      "A. L'aggiunta, modifica o rimozione di qualsiasi elemento che possa avere un effetto su prodotti e servizi",
+      "B. Un'interruzione non pianificata di un servizio",
+      "C. Un evento improvviso che provoca danni sostanziali",
+      "D. Una richiesta presentata da un utente per un'azione concordata"
+    ],
+    "correct_answer": "A",
+    "explanation": "Un cambiamento è l'aggiunta, modifica o rimozione di qualsiasi elemento che possa avere un effetto diretto o indiretto su prodotti e servizi."
+  },
+  {
+    "id": 73,
+    "question": "Quale delle seguenti descrive correttamente una \"richiesta di servizio\"?",
+    "options": [
+      "A. Una richiesta presentata da un utente che avvia un'azione del servizio concordata come facente parte del normale funzionamento",
+      "B. Un'interruzione non pianificata di un servizio",
+      "C. La causa potenziale di uno o più incidenti",
+      "D. Un cambiamento che richiede autorizzazione speciale"
+    ],
+    "correct_answer": "A",
+    "explanation": "Una richiesta di servizio è una richiesta presentata da un utente o dal suo rappresentante autorizzato che avvia un'azione del servizio concordata come facente parte del normale funzionamento del servizio."
+  },
+  {
+    "id": 74,
+    "question": "Quale dei seguenti è un fattore che influenza la strategia di un'organizzazione in materia di fornitori?",
+    "options": [
+      "A. Focus strategico e cultura aziendale",
+      "B. Il numero di server fisici nel data center",
+      "C. Il colore del logo aziendale",
+      "D. La dimensione dell'ufficio del CEO"
+    ],
+    "correct_answer": "A",
+    "explanation": "I fattori che influenzano la strategia sui fornitori includono: focus strategico, cultura aziendale, carenza di risorse, considerazioni sui costi, competenza specifica, vincoli esterni e schemi di domanda."
+  },
+  {
+    "id": 75,
+    "question": "Che cos'è il Continuous Delivery (CD)?",
+    "options": [
+      "A. Un processo in cui il codice non viene mai testato prima del rilascio",
+      "B. Un approccio in cui il software può essere rilasciato in produzione in qualsiasi momento, con decisioni di deployment prese caso per caso",
+      "C. Un approccio in cui si rilascia in produzione solo una volta all'anno",
+      "D. Un approccio in cui ogni modifica viene automaticamente implementata in produzione"
+    ],
+    "correct_answer": "B",
+    "explanation": "Il Continuous Delivery (CD) è un approccio in cui il software può essere rilasciato in produzione in qualsiasi momento. Sono possibili deployment frequenti, ma le decisioni di deployment vengono prese caso per caso."
+  },
+  {
+    "id": 76,
+    "question": "Quale approccio alla progettazione privilegia le esigenze e le esperienze degli utenti ed è radicato nell'empatia?",
+    "options": [
+      "A. Human-Centred Design (HCD)",
+      "B. Progettazione basata sui costi",
+      "C. Progettazione orientata ai processi",
+      "D. Progettazione basata sulla conformità"
+    ],
+    "correct_answer": "A",
+    "explanation": "L'Human-Centred Design (HCD) è un approccio alla risoluzione dei problemi che privilegia le esigenze e le esperienze degli utenti, radicato nell'empatia e nel processo iterativo."
+  },
+  {
+    "id": 77,
+    "question": "Quale delle seguenti affermazioni sulla governance dei dati è CORRETTA?",
+    "options": [
+      "A. La governance dei dati riguarda solo la sicurezza informatica",
+      "B. La governance dei dati è responsabilità esclusiva del team IT",
+      "C. La governance dei dati è un sistema di regole, politiche, standard, processi e controlli per gestire efficacemente gli asset di dati",
+      "D. La governance dei dati non ha principi chiave"
+    ],
+    "correct_answer": "C",
+    "explanation": "La governance dei dati è un sistema di regole, politiche, standard, processi e controlli che le organizzazioni implementano per gestire efficacemente i propri asset di dati."
+  },
+  {
+    "id": 78,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE il rapporto tra ITIL e PRINCE2?",
+    "options": [
+      "A. PRINCE2 sostituisce completamente ITIL per la gestione dei servizi",
+      "B. ITIL si concentra sulla gestione dei prodotti e servizi digitali, PRINCE2 fornisce metodi per la gestione di progetti e programmi",
+      "C. ITIL e PRINCE2 non possono essere usati insieme",
+      "D. PRINCE2 è un sottoinsieme di ITIL"
+    ],
+    "correct_answer": "B",
+    "explanation": "ITIL si concentra sulla gestione dei prodotti e dei servizi digitali lungo l'intera catena del valore. PRINCE2 fornisce metodi completi per la gestione di progetti, programmi e portafoglio."
+  },
+  {
+    "id": 79,
+    "question": "Quali sono gli input chiave e l'outcome del Sistema del valore ITIL (VS)?",
+    "options": [
+      "A. Input: opportunità e domanda; Outcome: valore",
+      "B. Input: prodotti e servizi; Outcome: profitto",
+      "C. Input: risorse e competenze; Outcome: efficienza",
+      "D. Input: feedback e reclami; Outcome: conformità"
+    ],
+    "correct_answer": "A",
+    "explanation": "Gli input chiave per il Sistema del valore ITIL sono opportunità e domanda. L'outcome del Sistema del valore è il valore."
+  },
+  {
+    "id": 80,
+    "question": "Quale affermazione descrive NEL MODO MIGLIORE il concetto di \"valore\" in ITIL?",
+    "options": [
+      "A. La percezione dei vantaggi, dell'utilità e dell'importanza di qualcosa",
+      "B. Il prezzo pagato per un servizio",
+      "C. La somma dei costi operativi di un servizio",
+      "D. Il numero di utenti che utilizzano un servizio"
+    ],
+    "correct_answer": "A",
+    "explanation": "Il valore è la percezione dei vantaggi, dell'utilità e dell'importanza di qualcosa."
+  }
+]
